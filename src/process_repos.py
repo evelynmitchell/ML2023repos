@@ -1,0 +1,217 @@
+#!/usr/bin/env python3
+"""
+Script to process GitHub repositories and extract their parent information.
+This version uses the Search API for better date filtering.
+"""
+
+import os
+import json
+import time
+import argparse
+from typing import Dict, List, Optional, Any, Tuple
+from datetime import datetime
+import requests
+
+class GitHubAPI:
+    """Class to handle GitHub API interactions."""
+    
+    def __init__(self, token: str):
+        """Initialize with GitHub token."""
+        self.token = token
+        self.headers = {'Authorization': f'Bearer {token}'}
+        self.base_url = 'https://api.github.com'
+        self.start_date = "2023-01-01"
+        self.end_date = "2023-12-31"
+
+    def _make_request(self, url: str, params: Optional[Dict] = None, max_retries: int = 3) -> Optional[Dict]:
+        """Make a request to GitHub API with retries and rate limiting."""
+        for attempt in range(max_retries):
+            try:
+                response = requests.get(url, headers=self.headers, params=params, timeout=30)
+                
+                # Check for rate limiting
+                remaining = int(response.headers.get('X-RateLimit-Remaining', 0))
+                if remaining < 10:
+                    reset_time = int(response.headers.get('X-RateLimit-Reset', 0))
+                    wait_time = max(reset_time - time.time(), 0)
+                    print(f"\nRate limit low ({remaining} remaining). Waiting {wait_time:.0f} seconds...")
+                    time.sleep(wait_time + 1)
+                
+                response.raise_for_status()
+                return response.json()
+            except requests.exceptions.Timeout:
+                print(f"Timeout on attempt {attempt + 1}/{max_retries}. Retrying...")
+                time.sleep(5 * (attempt + 1))  # Exponential backoff
+            except Exception as e:
+                if attempt == max_retries - 1:
+                    print(f"Error after {max_retries} attempts: {e}")
+                    return None
+                print(f"Error on attempt {attempt + 1}/{max_retries}: {e}. Retrying...")
+                time.sleep(2 * (attempt + 1))  # Exponential backoff
+        return None
+
+    def get_repos_page(self, page: int = 1, per_page: int = 100) -> List[Dict]:
+        """Get a page of repositories for a user."""
+        url = f'{self.base_url}/search/repositories'
+        params = {
+            'q': f'user:evelynmitchell fork:true created:{self.start_date}..{self.end_date}',
+            'page': page,
+            'per_page': per_page,
+            'sort': 'created',
+            'order': 'desc'
+        }
+        
+        result = self._make_request(url, params)
+        if result:
+            return result.get('items', [])
+        return []
+
+    def get_repo_details(self, owner: str, repo: str) -> Optional[Dict]:
+        """Get detailed information about a specific repository."""
+        url = f'{self.base_url}/repos/{owner}/{repo}'
+        return self._make_request(url)
+
+    def get_total_repos(self) -> int:
+        """Get total count of repositories matching the criteria."""
+        url = f'{self.base_url}/search/repositories'
+        params = {
+            'q': f'user:evelynmitchell fork:true created:{self.start_date}..{self.end_date}',
+            'per_page': 1
+        }
+        
+        result = self._make_request(url, params)
+        if result:
+            return result.get('total_count', 0)
+        return 0
+
+class RepoProcessor:
+    """Class to process repositories and update files."""
+    
+    def __init__(self, github_api: GitHubAPI, output_dir: str):
+        """Initialize with GitHub API client and output directory."""
+        self.github_api = github_api
+        self.output_dir = output_dir
+        self.json_file = os.path.join(output_dir, 'repos.json')
+        self.md_file = os.path.join(output_dir, 'forked_repos.md')
+
+    def process_repos_page(self, page: int, batch_size: Optional[int] = None) -> Tuple[List[Dict], bool]:
+        """Process a page of repositories."""
+        repos = self.github_api.get_repos_page(page)
+        processed_repos = []
+        found_repos = False
+        
+        # Process only batch_size repos if specified
+        if batch_size:
+            repos = repos[:batch_size]
+        
+        for i, repo in enumerate(repos, 1):
+            found_repos = True
+            print(f"\nProcessing {i}/{len(repos)}: {repo['name']}")
+            
+            # Get parent information if it's a fork
+            parent_url = None
+            if repo['fork']:
+                repo_details = self.github_api.get_repo_details('evelynmitchell', repo['name'])
+                if repo_details and repo_details.get('parent'):
+                    parent_url = repo_details['parent']['html_url']
+            
+            repo_info = {
+                "name": repo['name'],
+                "createdAt": repo['created_at'],
+                "description": repo['description'] or "",
+                "url": repo['html_url'],
+                "parent_url": parent_url,
+                "labels": [],
+                "repositoryTopics": None
+            }
+            processed_repos.append(repo_info)
+            
+            # Add a small delay between requests to avoid hitting rate limits
+            if i % 10 == 0:  # Add a longer delay every 10 requests
+                time.sleep(2)
+            else:
+                time.sleep(0.5)
+            
+        return processed_repos, found_repos
+
+    def update_files(self, repos: List[Dict]):
+        """Update both JSON and Markdown files with repository information."""
+        # Load existing repos if any
+        existing_repos = []
+        if os.path.exists(self.json_file):
+            with open(self.json_file, 'r') as f:
+                existing_repos = json.load(f)
+
+        # Combine and sort repos
+        all_repos = existing_repos + repos
+        all_repos.sort(key=lambda x: x['createdAt'], reverse=True)
+
+        # Update JSON file
+        with open(self.json_file, 'w') as f:
+            json.dump(all_repos, f, indent=2)
+
+        # Update Markdown file
+        table_content = ["# Forked Repositories from evelynmitchell\n\n"]
+        table_content.append("| Name | Created At | Description | URL | Parent URL |\n")
+        table_content.append("|------|------------|-------------|-----|------------|\n")
+
+        for repo in all_repos:
+            name = repo['name']
+            created_at = repo['createdAt'].split('T')[0]
+            description = repo['description']
+            url = repo['url']
+            parent_url = repo['parent_url'] or ''
+            table_content.append(f"| {name} | {created_at} | {description} | {url} | {parent_url} |\n")
+
+        with open(self.md_file, 'w') as f:
+            f.writelines(table_content)
+
+def main():
+    """Main function to run the repository processing."""
+    parser = argparse.ArgumentParser(description='Process GitHub repositories and extract parent information.')
+    parser.add_argument('--page', type=int, default=1, help='Page number to process')
+    parser.add_argument('--batch-size', type=int, default=100, help='Number of repos to process per batch')
+    parser.add_argument('--output-dir', default='/workspace/ML2023repos', help='Output directory')
+    parser.add_argument('--dry-run', action='store_true', help='Only show what would be processed without making changes')
+    
+    args = parser.parse_args()
+    
+    # Get GitHub token from environment
+    github_token = os.environ.get('GITHUB_TOKEN')
+    if not github_token:
+        print("Error: GITHUB_TOKEN environment variable not set")
+        return
+
+    # Initialize API client and processor
+    github_api = GitHubAPI(github_token)
+    processor = RepoProcessor(github_api, args.output_dir)
+    
+    # Get total repositories count
+    total_repos = github_api.get_total_repos()
+    print(f"Found {total_repos} total repositories")
+    
+    # Process repositories
+    processed_repos, found_repos = processor.process_repos_page(args.page, args.batch_size)
+    
+    if not found_repos:
+        print("\nNo repositories found on this page.")
+        return
+    
+    print(f"\nFound {len(processed_repos)} repositories from 2023 on page {args.page}")
+    
+    if args.dry_run:
+        print("\nDry run - would process these repositories:")
+        for repo in processed_repos:
+            print(f"- {repo['name']}")
+            print(f"  Created: {repo['createdAt'][:10]}")
+            print(f"  URL: {repo['url']}")
+            print(f"  Parent: {repo['parent_url']}")
+        return
+    
+    # Update files
+    processor.update_files(processed_repos)
+    print(f"\nProcessed {len(processed_repos)} repositories")
+    print(f"Files updated: {processor.json_file} and {processor.md_file}")
+
+if __name__ == "__main__":
+    main()
