@@ -15,10 +15,10 @@
 | MathPile | 2023-12-31 | Generative AI for Math: MathPile | https://github.com/GAIR-NLP/MathPile | [ x] | https://github.com/evelynmitchell/MathPile |
 | zero | 2023-12-31 | Allow startup developers to ship to production on day 1 | https://github.com/commitdev/zero | [ x] | https://github.com/evelynmitchell/zero |
 | representation-engineering | 2023-12-31 | Representation Engineering: A Top-Down Approach to AI Transparency | https://github.com/andyzoujm/representation-engineering | [ x] | https://github.com/evelynmitchell/representation-engineering |
-| aiflows | 2023-12-31 | 🤖🌊 aiFlows: The building blocks of your collaborative AI | https://github.com/epfl-dlab/aiflows | [  ] | https://github.com/evelynmitchell/aiflows |
-| lm-weights-encode-time | 2023-12-31 |  | https://github.com/KaiNylund/lm-weights-encode-time | [  ] | https://github.com/evelynmitchell/lm-weights-encode-time |
-| free-lunch | 2023-12-31 | Implementation of experiments from The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning | https://github.com/goldblum/free-lunch | [  ] | https://github.com/evelynmitchell/free-lunch |
-| mixtral-offloading | 2023-12-31 | Run Mixtral-8x7B models in Colab or consumer desktops | https://github.com/dvmazur/mixtral-offloading | [  ] | https://github.com/evelynmitchell/mixtral-offloading |
+| aiflows | 2023-12-31 | 🤖🌊 aiFlows: The building blocks of your collaborative AI | https://github.com/epfl-dlab/aiflows | [ x] | https://github.com/evelynmitchell/aiflows |
+| lm-weights-encode-time | 2023-12-31 | Time is Encoded in the Weights of Finetuned Language Models | https://github.com/KaiNylund/lm-weights-encode-time | [ x ] | https://github.com/evelynmitchell/lm-weights-encode-time |
+| free-lunch | 2023-12-31 | Implementation of experiments from The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning | https://github.com/goldblum/free-lunch | [x ] | https://github.com/evelynmitchell/free-lunch |
+| mixtral-offloading | 2023-12-31 | Run Mixtral-8x7B models in Colab or consumer desktops | https://github.com/dvmazur/mixtral-offloading | [ x ] | https://github.com/evelynmitchell/mixtral-offloading |
 | awesome-quarto | 2023-12-31 | A curated list of Quarto talks, tools, examples & articles! Contributions welcome! | https://github.com/mcanouil/awesome-quarto | [  ] | https://github.com/evelynmitchell/awesome-quarto |
 | llm-course | 2023-12-31 | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. | https://github.com/mlabonne/llm-course | [  ] | https://github.com/evelynmitchell/llm-course |
 | chalk | 2023-12-30 | A declarative drawing API in Python | https://github.com/chalk-diagrams/chalk | [  ] | https://github.com/evelynmitchell/chalk |
@@ -27,22 +27,20 @@
 | advisory-database | 2023-12-27 | Advisory database for Python packages published on pypi.org | https://github.com/pypa/advisory-database | [  ] | https://github.com/evelynmitchell/advisory-database |
 | propublica990 | 2023-12-27 | Tools for ProPublica's Nonprofit Explorer 990 tax forms API v2. | https://github.com/Punderthings/propublica990 | [  ] | https://github.com/evelynmitchell/propublica990 |
 | NLPnotebooks | 2023-12-27 | Jupyter notebooks for the Natural Language Processing with Transformers book | https://github.com/nlp-with-transformers/notebooks | [  ] | https://github.com/evelynmitchell/NLPnotebooks |
-| Date2Vec | 2023-12-26 | PyTorch Scripts for training and getting embeddings of Date-Time without losing much information. Pretrained Models Included. | https://github.com/ojus1/Date2Vec | [  ] | https://github.com/evelynmitchell/Date2Vec |
+| Date2Vec | 2023-12-26 | PyTorch Scripts for training and getting embeddings of Date-Time without losing much information. Pretrained Models Included. | https://github.com/ojus1/Date2Vec | [ x ] | https://github.com/evelynmitchell/Date2Vec |
 | PySR | 2023-12-26 | High-Performance Symbolic Regression in Python and Julia | https://github.com/MilesCranmer/PySR | [  ] | https://github.com/evelynmitchell/PySR |
-| rust_candle_noodlilng | 2023-12-25 |  |  | [  ] | https://github.com/evelynmitchell/rust_candle_noodlilng |
+| rust_candle_noodlilng | 2023-12-25 |  |  | [ x ] | https://github.com/evelynmitchell/rust_candle_noodlilng |
 | do-mpc | 2023-12-24 | Model predictive control python toolbox | https://github.com/do-mpc/do-mpc | [  ] | https://github.com/evelynmitchell/do-mpc |
 | ai4ml_website | 2023-12-24 | Website sources for Applied Machine Learning for Tabular Data | https://github.com/aml4td/website | [  ] | https://github.com/evelynmitchell/ai4ml_website |
-| StreamDiffusion | 2023-12-24 | StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation | https://github.com/cumulo-autumn/StreamDiffusion | [  ] | https://github.com/evelynmitchell/StreamDiffusion |
+| StreamDiffusion | 2023-12-24 | StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation | https://github.com/cumulo-autumn/StreamDiffusion | [  x] | https://github.com/evelynmitchell/StreamDiffusion |
 | evelynmitchell | 2023-12-23 |  |  | [  ] | https://github.com/evelynmitchell/evelynmitchell |
-| MMMU | 2023-12-23 | This repo contains evaluation code for the paper "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI" | https://github.com/MMMU-Benchmark/MMMU | [  ] | https://github.com/evelynmitchell/MMMU |
+| MMMU | 2023-12-23 | This repo contains evaluation code for the paper "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI" | https://github.com/MMMU-Benchmark/MMMU | [ x ] | https://github.com/evelynmitchell/MMMU |
 | Megatron-LM | 2023-12-22 | Ongoing research training transformer models at scale | https://github.com/NVIDIA/Megatron-LM | [  ] | https://github.com/evelynmitchell/Megatron-LM |
 | dysts | 2023-12-22 | More than a hundred strange attractors | https://github.com/williamgilpin/dysts | [  ] | https://github.com/evelynmitchell/dysts |
-| agent-search | 2023-12-22 |  Comprehensive Agent-First Framework and Dataset for Webscale Search | https://github.com/SciPhi-AI/agent-search | [  ] | https://github.com/evelynmitchell/agent-search |
-| PowerInfer | 2023-12-19 | High-speed Large Language Model Serving on PCs with Consumer-grade GPUs | https://github.com/SJTU-IPADS/PowerInfer | [  ] | https://github.com/evelynmitchell/PowerInfer |
-| CUDA_noodling | 2023-12-19 |  |  | [  ] | https://github.com/evelynmitchell/CUDA_noodling |
-| xetcache | 2023-12-19 |  | https://github.com/xetdata/xetcache | [  ] | https://github.com/evelynmitchell/xetcache |
-| Automatic_Meeting_Summarys | 2023-12-19 | Transcibe a meeting and summarise what was said.  | https://github.com/edmundman/Automatic_Meeting_Summarys | [  ] | https://github.com/evelynmitchell/Automatic_Meeting_Summarys |
-| TuningTraining | 2023-12-19 |  |  | [  ] | https://github.com/evelynmitchell/TuningTraining |
+| agent-search | 2023-12-22 |  Comprehensive Agent-First Framework and Dataset for Webscale Search | https://github.com/SciPhi-AI/agent-search | [ x ] | https://github.com/evelynmitchell/agent-search |
+| PowerInfer | 2023-12-19 | High-speed Large Language Model Serving on PCs with Consumer-grade GPUs | https://github.com/SJTU-IPADS/PowerInfer | [ x ] | https://github.com/evelynmitchell/PowerInfer |
+| xetcache | 2023-12-19 | XetCache provides persistent caching of long running functions or jupyter notebook cells. | https://github.com/xetdata/xetcache | [ x ] | https://github.com/evelynmitchell/xetcache |
+| Automatic_Meeting_Summarys | 2023-12-19 | Transcibe a meeting and summarise what was said.  | https://github.com/edmundman/Automatic_Meeting_Summarys | [ x ] | https://github.com/evelynmitchell/Automatic_Meeting_Summarys |
 | openlogprobs | 2023-12-19 | Extract full next-token probabilities via language model APIs | https://github.com/justinchiu/openlogprobs | [  ] | https://github.com/evelynmitchell/openlogprobs |
 | axolotl | 2023-12-19 | Go ahead and axolotl questions | https://github.com/axolotl-ai-cloud/axolotl | [  ] | https://github.com/evelynmitchell/axolotl |
 | ColBERT | 2023-12-19 | ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22) | https://github.com/stanford-futuredata/ColBERT | [  ] | https://github.com/evelynmitchell/ColBERT |
