@@ -177,56 +177,53 @@
 | pyperplan | 2023-11-19 | A lightweight STRIPS planner written in Python. | https://github.com/aibasel/pyperplan | [ x ] | https://github.com/evelynmitchell/pyperplan |
 | segment-anything-fast | 2023-11-19 | A batched offline inference oriented version of segment-anything | https://github.com/pytorch-labs/segment-anything-fast | [ x ] | https://github.com/evelynmitchell/segment-anything-fast |
 | jupysec | 2023-11-19 | A JupyterLab extension to evaluate the security of your Jupyter environment | https://github.com/JosephTLucas/jupysec | [  ] | https://github.com/evelynmitchell/jupysec |
-| draw-a-ui | 2023-11-19 | Draw a mockup and generate html for it | https://github.com/tldraw/make-real | [ x ] | https://github.com/evelynmitchell/draw-a-ui |  xxx
-| LanguageBind | 2023-11-19 |  | https://github.com/eltociear/LanguageBind | [  ] | https://github.com/evelynmitchell/LanguageBind |
-| sbx | 2023-11-18 | SBX: Stable Baselines Jax (SB3 + Jax) | https://github.com/araffin/sbx | [  ] | https://github.com/evelynmitchell/sbx |
-| mustango | 2023-11-18 | Mustango: Toward Controllable Text-to-Music Generation | https://github.com/AMAAI-Lab/mustango | [  ] | https://github.com/evelynmitchell/mustango |
+| draw-a-ui | 2023-11-19 | Draw a mockup and generate html for it | https://github.com/tldraw/make-real | [ x ] | https://github.com/evelynmitchell/draw-a-ui |
+| LanguageBind | 2023-11-19 | LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment | https://github.com/eltociear/LanguageBind | [ x ] | https://github.com/evelynmitchell/LanguageBind |
+| sbx | 2023-11-18 | SBX: Stable Baselines Jax (SB3 + Jax) | https://github.com/araffin/sbx | [  x] | https://github.com/evelynmitchell/sbx |
+| mustango | 2023-11-18 | Mustango: Toward Controllable Text-to-Music Generation | https://github.com/AMAAI-Lab/mustango | [ x ] | https://github.com/evelynmitchell/mustango |
 | contrastive-cot | 2023-11-18 | Contrastive Chain-of-Thought Prompting | https://github.com/DAMO-NLP-SG/contrastive-cot | [  ] | https://github.com/evelynmitchell/contrastive-cot |
-| conv-emotion | 2023-11-18 | This repo contains implementation of different architectures for emotion recognition in conversations. | https://github.com/declare-lab/conv-emotion | [  ] | https://github.com/evelynmitchell/conv-emotion |
-| Qwen-Audio | 2023-11-18 | The official repo of Qwen-Audio (通义千问-Audio) chat & pretrained large audio language model proposed by Alibaba Cloud. | https://github.com/QwenLM/Qwen-Audio | [  ] | https://github.com/evelynmitchell/Qwen-Audio |
-| ghactions_testing | 2023-11-17 |  |  | [  ] | https://github.com/evelynmitchell/ghactions_testing |
-| gymnax | 2023-11-17 | RL Environments in JAX  🌍 | https://github.com/RobertTLange/gymnax | [  ] | https://github.com/evelynmitchell/gymnax |
-| JaxMARL | 2023-11-17 | Multi-Agent Reinforcement Learning with JAX | https://github.com/FLAIROx/JaxMARL | [  ] | https://github.com/evelynmitchell/JaxMARL |
-| design-bench | 2023-11-14 | Benchmarks for Model-Based Optimization | https://github.com/brandontrabucco/design-bench | [  ] | https://github.com/evelynmitchell/design-bench |
-| design-baselines | 2023-11-14 | Baselines for Model-Based Optimization | https://github.com/brandontrabucco/design-baselines | [  ] | https://github.com/evelynmitchell/design-baselines |
-| MemGPT | 2023-11-14 | Teaching LLMs memory management for unbounded context 📚🦙 | https://github.com/letta-ai/letta | [  ] | https://github.com/evelynmitchell/MemGPT |
-| cvxpylayers | 2023-11-14 | Differentiable convex optimization layers | https://github.com/cvxgrp/cvxpylayers | [  ] | https://github.com/evelynmitchell/cvxpylayers |
-| gitness | 2023-11-14 | Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. | https://github.com/harness/harness | [  ] | https://github.com/evelynmitchell/gitness |
+| conv-emotion | 2023-11-18 | This repo contains implementation of different architectures for emotion recognition in conversations. | https://github.com/declare-lab/conv-emotion | [ x ] | https://github.com/evelynmitchell/conv-emotion |
+| Qwen-Audio | 2023-11-18 | The official repo of Qwen-Audio (通义千问-Audio) chat & pretrained large audio language model proposed by Alibaba Cloud. | https://github.com/QwenLM/Qwen-Audio | [  x] | https://github.com/evelynmitchell/Qwen-Audio |
+| gymnax | 2023-11-17 | RL Environments in JAX  🌍 | https://github.com/RobertTLange/gymnax | [ ] | https://github.com/evelynmitchell/gymnax |
+| JaxMARL | 2023-11-17 | Multi-Agent Reinforcement Learning with JAX | https://github.com/FLAIROx/JaxMARL | [ ] | https://github.com/evelynmitchell/JaxMARL |
+| design-bench | 2023-11-14 | Benchmarks for Model-Based Optimization | https://github.com/brandontrabucco/design-bench | [x ] | https://github.com/evelynmitchell/design-bench |
+| design-baselines | 2023-11-14 | Baselines for Model-Based Optimization | https://github.com/brandontrabucco/design-baselines | [x  ] | https://github.com/evelynmitchell/design-baselines |
+| MemGPT | 2023-11-14 | Teaching LLMs memory management for unbounded context 📚🦙 | https://github.com/letta-ai/letta | [ xy ] | https://github.com/evelynmitchell/MemGPT |
+| cvxpylayers | 2023-11-14 | Differentiable convex optimization layers | https://github.com/cvxgrp/cvxpylayers | [ x ] | https://github.com/evelynmitchell/cvxpylayers |
+| gitness | 2023-11-14 | Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. | https://github.com/harness/harness | [xy  ] | https://github.com/evelynmitchell/gitness |
 | pipeline-sec-filings | 2023-11-12 | Preprocessing pipeline notebooks and API supporting text extraction from SEC documents | https://github.com/Unstructured-IO/pipeline-sec-filings | [  ] | https://github.com/evelynmitchell/pipeline-sec-filings |
-| llm-verified-with-monte-carlo-tree-search | 2023-11-12 | LLM verified with Monte Carlo Tree Search | https://github.com/namin/llm-verified-with-monte-carlo-tree-search | [  ] | https://github.com/evelynmitchell/llm-verified-with-monte-carlo-tree-search |
-| mcts-for-llm | 2023-11-12 | This is a pip package implementing Reinforcement Learning algorithms in non-stationary environments supported by the OpenAI Gym toolkit. | https://github.com/shunzh/mcts-for-llm | [  ] | https://github.com/evelynmitchell/mcts-for-llm |
-| spelltest | 2023-11-12 | AI-to-AI Testing | Simulation framework for LLM-based applications | https://github.com/artas728/spelltest | [  ] | https://github.com/evelynmitchell/spelltest |
+| llm-verified-with-monte-carlo-tree-search | 2023-11-12 | LLM verified with Monte Carlo Tree Search | https://github.com/namin/llm-verified-with-monte-carlo-tree-search | [ x ] | https://github.com/evelynmitchell/llm-verified-with-monte-carlo-tree-search |
+| mcts-for-llm | 2023-11-12 | This is a pip package implementing Reinforcement Learning algorithms in non-stationary environments supported by the OpenAI Gym toolkit. | https://github.com/shunzh/mcts-for-llm | [x  ] | https://github.com/evelynmitchell/mcts-for-llm |
+| spelltest | 2023-11-12 | AI-to-AI Testing | Simulation framework for LLM-based applications | https://github.com/artas728/spelltest | [x  ] | https://github.com/evelynmitchell/spelltest |
 | mindsdb | 2023-11-11 | MindsDB connects AI models to real time data | https://github.com/mindsdb/mindsdb | [  ] | https://github.com/evelynmitchell/mindsdb |
 | databento-python | 2023-11-10 | The official Python client library for Databento. | https://github.com/databento/databento-python | [  ] | https://github.com/evelynmitchell/databento-python |
-| DiffusionAE | 2023-11-09 |  | https://github.com/fbrad/DiffusionAE | [  ] | https://github.com/evelynmitchell/DiffusionAE |
-| realtime-bakllava | 2023-11-09 | llama.cpp with BakLLaVA model describes what does it see | https://github.com/Fuzzy-Search/realtime-bakllava | [  ] | https://github.com/evelynmitchell/realtime-bakllava |
-| BakLLaVA | 2023-11-09 |  | https://github.com/SkunkworksAI/BakLLaVA | [  ] | https://github.com/evelynmitchell/BakLLaVA |
+| DiffusionAE | 2023-11-09 |  | https://github.com/fbrad/DiffusionAE | [x  ] | https://github.com/evelynmitchell/DiffusionAE |
+| realtime-bakllava | 2023-11-09 | llama.cpp with BakLLaVA model describes what does it see | https://github.com/Fuzzy-Search/realtime-bakllava | [x  ] | https://github.com/evelynmitchell/realtime-bakllava |
+| BakLLaVA | 2023-11-09 |  | https://github.com/SkunkworksAI/BakLLaVA | [x  ] | https://github.com/evelynmitchell/BakLLaVA |
 | GoLLIE | 2023-11-09 | Guideline following Large Language Model for Information Extraction | https://github.com/hitz-zentroa/GoLLIE | [  ] | https://github.com/evelynmitchell/GoLLIE |
 | dm_control | 2023-11-06 | Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo. | https://github.com/google-deepmind/dm_control | [  ] | https://github.com/evelynmitchell/dm_control |
-| cannoli | 2023-11-06 |  | https://github.com/DeabLabs/cannoli | [  ] | https://github.com/evelynmitchell/cannoli |
-| metnet3-pytorch | 2023-11-06 | Implementation of MetNet-3, SOTA neural weather model out of Google Deepmind, in Pytorch | https://github.com/lucidrains/metnet3-pytorch | [  ] | https://github.com/evelynmitchell/metnet3-pytorch |
+| cannoli | 2023-11-06 | Cannoli allows you to build and run no-code LLM scripts using the Obsidian Canvas editor. | https://github.com/DeabLabs/cannoli | [  ] | https://github.com/evelynmitchell/cannoli |
+| metnet3-pytorch | 2023-11-06 | Implementation of MetNet-3, SOTA neural weather model out of Google Deepmind, in Pytorch | https://github.com/lucidrains/metnet3-pytorch | [x ] | https://github.com/evelynmitchell/metnet3-pytorch |
 | TemplateUpdateRepos | 2023-11-04 | Tooling to update repos which are based on a template |  | [  ] | https://github.com/evelynmitchell/TemplateUpdateRepos |
-| langsuite | 2023-11-04 | Official Repo of LangSuitE | https://github.com/bigai-nlco/langsuite | [  ] | https://github.com/evelynmitchell/langsuite |
+| langsuite | 2023-11-04 | Official Repo of LangSuitE | https://github.com/bigai-nlco/langsuite | [x  ] | https://github.com/evelynmitchell/langsuite |
 | AutoTemp | 2023-11-04 | A trial-and-error approach to temperature opimization for LLMs. Runs the same prompt at many temperatures and selects the best output automatically. | https://github.com/elder-plinius/AutoTemp | [  ] | https://github.com/evelynmitchell/AutoTemp |
-| RAIS-Framework | 2023-11-02 | Evaluate social risks of AI startups for investors | https://github.com/radicalventures/RAIS-Framework | [  ] | https://github.com/evelynmitchell/RAIS-Framework |
+| RAIS-Framework | 2023-11-02 | Evaluate social risks of AI startups for investors | https://github.com/radicalventures/RAIS-Framework | [ x ] | https://github.com/evelynmitchell/RAIS-Framework |
 | CompositionalKoopmanOperators | 2023-11-02 | [ICLR 2020] Learning Compositional Koopman Operators for Model-Based Control | https://github.com/YunzhuLi/CompositionalKoopmanOperators | [  ] | https://github.com/evelynmitchell/CompositionalKoopmanOperators |
-| vit-visualization | 2023-11-01 |  | https://github.com/hamidkazemi22/vit-visualization | [  ] | https://github.com/evelynmitchell/vit-visualization |
-| Transformers-Tutorials | 2023-11-01 | This repository contains demos I made with the Transformers library by HuggingFace. | https://github.com/NielsRogge/Transformers-Tutorials | [  ] | https://github.com/evelynmitchell/Transformers-Tutorials |
-| tdmpc2 | 2023-10-31 | Code for "TD-MPC2: Scalable, Robust World Models for Continuous Control" | https://github.com/nicklashansen/tdmpc2 | [  ] | https://github.com/evelynmitchell/tdmpc2 |
-| APRL | 2023-10-31 | Efficient Real-World RL for Legged Locomotion via Adaptive Policy Regularization | https://github.com/realquantumcookie/APRL | [  ] | https://github.com/evelynmitchell/APRL |
-| bigcode-evaluation-harness | 2023-10-29 | A framework for the evaluation of autoregressive code generation language models. | https://github.com/bigcode-project/bigcode-evaluation-harness | [  ] | https://github.com/evelynmitchell/bigcode-evaluation-harness |
-| code-eval | 2023-10-29 | Run evaluation on LLMs using human-eval benchmark | https://github.com/abacaj/code-eval | [  ] | https://github.com/evelynmitchell/code-eval |
+| vit-visualization | 2023-11-01 |  | https://github.com/hamidkazemi22/vit-visualization | [ x ] | https://github.com/evelynmitchell/vit-visualization |
+| Transformers-Tutorials | 2023-11-01 | This repository contains demos I made with the Transformers library by HuggingFace. | https://github.com/NielsRogge/Transformers-Tutorials | [ x ] | https://github.com/evelynmitchell/Transformers-Tutorials |
+| tdmpc2 | 2023-10-31 | Code for "TD-MPC2: Scalable, Robust World Models for Continuous Control" | https://github.com/nicklashansen/tdmpc2 | [ x ] | https://github.com/evelynmitchell/tdmpc2 |
+| APRL | 2023-10-31 | Efficient Real-World RL for Legged Locomotion via Adaptive Policy Regularization | https://github.com/realquantumcookie/APRL | [ x ] | https://github.com/evelynmitchell/APRL |
+| bigcode-evaluation-harness | 2023-10-29 | A framework for the evaluation of autoregressive code generation language models. | https://github.com/bigcode-project/bigcode-evaluation-harness | [ x ] | https://github.com/evelynmitchell/bigcode-evaluation-harness |
+| code-eval | 2023-10-29 | Run evaluation on LLMs using human-eval benchmark | https://github.com/abacaj/code-eval | [ x ] | https://github.com/evelynmitchell/code-eval |
 | motif | 2023-10-25 | Intrinsic Motivation from Artificial Intelligence Feedback | https://github.com/facebookresearch/motif | [  ] | https://github.com/evelynmitchell/motif |
-| Eureka | 2023-10-25 | Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models" | https://github.com/eureka-research/Eureka | [  ] | https://github.com/evelynmitchell/Eureka |
-| dilated-attention-pytorch | 2023-10-25 | (Unofficial) Implementation of dilated attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens" (https://arxiv.org/abs/2307.02486) | https://github.com/fkodom/dilated-attention-pytorch | [  ] | https://github.com/evelynmitchell/dilated-attention-pytorch |
-| LLMs-Planning | 2023-10-24 | An extensible benchmark for evaluating large language models on planning | https://github.com/karthikv792/LLMs-Planning | [  ] | https://github.com/evelynmitchell/LLMs-Planning |
-| llm-foundry | 2023-10-24 | LLM training code for MosaicML foundation models | https://github.com/mosaicml/llm-foundry | [  ] | https://github.com/evelynmitchell/llm-foundry |
+| Eureka | 2023-10-25 | Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models" | https://github.com/eureka-research/Eureka | [ x ] | https://github.com/evelynmitchell/Eureka |
+| dilated-attention-pytorch | 2023-10-25 | (Unofficial) Implementation of dilated attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens" (https://arxiv.org/abs/2307.02486) | https://github.com/fkodom/dilated-attention-pytorch | [ x ] | https://github.com/evelynmitchell/dilated-attention-pytorch |
+| LLMs-Planning | 2023-10-24 | An extensible benchmark for evaluating large language models on planning | https://github.com/karthikv792/LLMs-Planning | [ x ] | https://github.com/evelynmitchell/LLMs-Planning |
+| llm-foundry | 2023-10-24 | LLM training code for MosaicML foundation models | https://github.com/mosaicml/llm-foundry | [x  ] | https://github.com/evelynmitchell/llm-foundry |
 | trlx | 2023-10-24 | A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF) | https://github.com/CarperAI/trlx | [  ] | https://github.com/evelynmitchell/trlx |
 | runtime-error-prediction | 2023-10-24 | This is the repository for the paper Static Prediction of Runtime Errors by Learning to Execute Programs with External Resource Descriptions, and for the Python Runtime Errors (PRE) dataset. | https://github.com/google-research/runtime-error-prediction | [  ] | https://github.com/evelynmitchell/runtime-error-prediction |
-| opt_sync | 2023-10-24 | Options data sync |  | [  ] | https://github.com/evelynmitchell/opt_sync |
-| Attention_Head_Varieties | 2023-10-23 |  |  | [  ] | https://github.com/evelynmitchell/Attention_Head_Varieties |
 | fecssk | 2023-10-20 | Formalisms Every Computer Scientist Should Know | https://github.com/madvorak/fecssk | [  ] | https://github.com/evelynmitchell/fecssk |
-| AgileRL | 2023-10-20 | Streamlining reinforcement learning with RLOps | https://github.com/AgileRL/AgileRL | [  ] | https://github.com/evelynmitchell/AgileRL |
+| AgileRL | 2023-10-20 | Streamlining reinforcement learning with RLOps | https://github.com/AgileRL/AgileRL | [  ] | https://github.com/evelynmitchell/AgileRL | xxx
 | PokemonRedExperiments | 2023-10-20 | Playing Pokemon Red with Reinforcement Learning | https://github.com/PWhiddy/PokemonRedExperiments | [  ] | https://github.com/evelynmitchell/PokemonRedExperiments |
 | specfy | 2023-10-20 | Open source Stack Intelligence Platform | https://github.com/specfy/specfy | [  ] | https://github.com/evelynmitchell/specfy |
 | DiagrammerGPT | 2023-10-20 | Official code repository for: DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning | https://github.com/aszala/DiagrammerGPT | [  ] | https://github.com/evelynmitchell/DiagrammerGPT |
