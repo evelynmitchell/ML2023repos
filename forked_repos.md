@@ -177,7 +177,7 @@
 | pyperplan | 2023-11-19 | A lightweight STRIPS planner written in Python. | https://github.com/aibasel/pyperplan | [ x ] | https://github.com/evelynmitchell/pyperplan |
 | segment-anything-fast | 2023-11-19 | A batched offline inference oriented version of segment-anything | https://github.com/pytorch-labs/segment-anything-fast | [ x ] | https://github.com/evelynmitchell/segment-anything-fast |
 | jupysec | 2023-11-19 | A JupyterLab extension to evaluate the security of your Jupyter environment | https://github.com/JosephTLucas/jupysec | [  ] | https://github.com/evelynmitchell/jupysec |
-| draw-a-ui | 2023-11-19 | Draw a mockup and generate html for it | https://github.com/tldraw/make-real | [ x ] | https://github.com/evelynmitchell/draw-a-ui |
+| draw-a-ui | 2023-11-19 | Draw a mockup and generate html for it | https://github.com/tldraw/make-real | [ x ] | https://github.com/evelynmitchell/draw-a-ui |  xxx
 | LanguageBind | 2023-11-19 |  | https://github.com/eltociear/LanguageBind | [  ] | https://github.com/evelynmitchell/LanguageBind |
 | sbx | 2023-11-18 | SBX: Stable Baselines Jax (SB3 + Jax) | https://github.com/araffin/sbx | [  ] | https://github.com/evelynmitchell/sbx |
 | mustango | 2023-11-18 | Mustango: Toward Controllable Text-to-Music Generation | https://github.com/AMAAI-Lab/mustango | [  ] | https://github.com/evelynmitchell/mustango |
