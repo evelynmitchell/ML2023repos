@@ -27,6 +27,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "cuda-api-wrappers",
+    "createdAt": "2023-12-31T16:30:42Z",
+    "description": "Thin, unified, C++-flavored wrappers for the CUDA APIs",
+    "url": "https://github.com/evelynmitchell/cuda-api-wrappers",
+    "parent_url": "https://github.com/eyalroz/cuda-api-wrappers",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "pennylane-lightning",
     "createdAt": "2023-12-31T16:25:05Z",
     "description": "The PennyLane-Lightning plugin provides a fast state-vector simulator written in C++ for use with PennyLane",
@@ -41,6 +50,15 @@
     "description": "A collaboration friendly studio for NeRFs",
     "url": "https://github.com/evelynmitchell/nerfstudio",
     "parent_url": "https://github.com/nerfstudio-project/nerfstudio",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "pytorch-image-models",
+    "createdAt": "2023-12-31T15:46:38Z",
+    "description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+    "url": "https://github.com/evelynmitchell/pytorch-image-models",
+    "parent_url": "https://github.com/huggingface/pytorch-image-models",
     "labels": [],
     "repositoryTopics": null
   },
@@ -77,6 +95,15 @@
     "description": "Implementation of experiments from The No Free Lunch Theorem, Kolmogorov Complexity, and the Role of Inductive Biases in Machine Learning",
     "url": "https://github.com/evelynmitchell/free-lunch",
     "parent_url": "https://github.com/goldblum/free-lunch",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "awesome-quarto",
+    "createdAt": "2023-12-31T00:06:41Z",
+    "description": "A curated list of Quarto talks, tools, examples & articles! Contributions welcome!",
+    "url": "https://github.com/evelynmitchell/awesome-quarto",
+    "parent_url": "https://github.com/mcanouil/awesome-quarto",
     "labels": [],
     "repositoryTopics": null
   },
@@ -131,6 +158,15 @@
     "description": "Jupyter notebooks for the Natural Language Processing with Transformers book",
     "url": "https://github.com/evelynmitchell/NLPnotebooks",
     "parent_url": "https://github.com/nlp-with-transformers/notebooks",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "rust_candle_noodlilng",
+    "createdAt": "2023-12-25T16:46:10Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/rust_candle_noodlilng",
+    "parent_url": null,
     "labels": [],
     "repositoryTopics": null
   },
@@ -198,6 +234,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "TuningTraining",
+    "createdAt": "2023-12-19T03:30:50Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/TuningTraining",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "openlogprobs",
     "createdAt": "2023-12-19T02:21:02Z",
     "description": "Extract full next-token probabilities via language model APIs",
@@ -225,6 +270,24 @@
     "repositoryTopics": null
   },
   {
+    "name": "mergekit",
+    "createdAt": "2023-12-18T02:28:24Z",
+    "description": "Tools for merging pretrained large language models.",
+    "url": "https://github.com/evelynmitchell/mergekit",
+    "parent_url": "https://github.com/arcee-ai/mergekit",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "popjaxrl",
+    "createdAt": "2023-12-18T02:21:22Z",
+    "description": "Benchmarking RL for POMDPs in Pure JAX [Code for \"Structured State Space Models for In-Context Reinforcement Learning\" (NeurIPS 2023)]",
+    "url": "https://github.com/evelynmitchell/popjaxrl",
+    "parent_url": "https://github.com/luchris429/popjaxrl",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "promptbase",
     "createdAt": "2023-12-18T02:19:18Z",
     "description": "All things prompt engineering",
@@ -239,6 +302,24 @@
     "description": "Set of tools to assess and improve LLM security.",
     "url": "https://github.com/evelynmitchell/PurpleLlama",
     "parent_url": "https://github.com/meta-llama/PurpleLlama",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "weak-to-strong",
+    "createdAt": "2023-12-17T23:40:33Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/weak-to-strong",
+    "parent_url": "https://github.com/openai/weak-to-strong",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "chat-langchain",
+    "createdAt": "2023-12-17T19:46:22Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/chat-langchain",
+    "parent_url": "https://github.com/langchain-ai/chat-langchain",
     "labels": [],
     "repositoryTopics": null
   },
@@ -261,11 +342,29 @@
     "repositoryTopics": null
   },
   {
+    "name": "AffectGPT",
+    "createdAt": "2023-12-17T17:37:18Z",
+    "description": "A Real-world Audio-Video-Text Aligned Dataset for Explainable Multimodal Emotion Reasoning",
+    "url": "https://github.com/evelynmitchell/AffectGPT",
+    "parent_url": "https://github.com/zeroQiaoba/AffectGPT",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "TopoNetX",
     "createdAt": "2023-12-17T01:20:31Z",
     "description": "Computing on Topological Domains",
     "url": "https://github.com/evelynmitchell/TopoNetX",
     "parent_url": "https://github.com/pyt-team/TopoNetX",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "umap",
+    "createdAt": "2023-12-16T23:55:49Z",
+    "description": "Uniform Manifold Approximation and Projection",
+    "url": "https://github.com/evelynmitchell/umap",
+    "parent_url": "https://github.com/lmcinnes/umap",
     "labels": [],
     "repositoryTopics": null
   },
@@ -302,6 +401,15 @@
     "description": "S-LoRA: Serving Thousands of Concurrent LoRA Adapters",
     "url": "https://github.com/evelynmitchell/S-LoRA",
     "parent_url": "https://github.com/S-LoRA/S-LoRA",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "awesome-instruction-datasets",
+    "createdAt": "2023-12-10T17:32:04Z",
+    "description": "A collection of awesome-prompt-datasets, awesome-instruction-dataset, to train ChatLLM such as chatgpt \u6536\u5f55\u5404\u79cd\u5404\u6837\u7684\u6307\u4ee4\u6570\u636e\u96c6, \u7528\u4e8e\u8bad\u7ec3  ChatLLM \u6a21\u578b\u3002",
+    "url": "https://github.com/evelynmitchell/awesome-instruction-datasets",
+    "parent_url": "https://github.com/jianzhnie/awesome-instruction-datasets",
     "labels": [],
     "repositoryTopics": null
   },
@@ -396,6 +504,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "awesome-instruction-dataset",
+    "createdAt": "2023-12-08T20:43:50Z",
+    "description": "A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)",
+    "url": "https://github.com/evelynmitchell/awesome-instruction-dataset",
+    "parent_url": "https://github.com/yaodongC/awesome-instruction-dataset",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "megablocks",
     "createdAt": "2023-12-08T20:43:15Z",
     "description": "",
@@ -455,6 +572,15 @@
     "description": "robotic motion planning library",
     "url": "https://github.com/evelynmitchell/toppra",
     "parent_url": "https://github.com/hungpham2511/toppra",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "mamba",
+    "createdAt": "2023-12-04T22:29:26Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/mamba",
+    "parent_url": "https://github.com/state-spaces/mamba",
     "labels": [],
     "repositoryTopics": null
   },
@@ -549,11 +675,29 @@
     "repositoryTopics": null
   },
   {
+    "name": "custodian",
+    "createdAt": "2023-11-30T02:46:01Z",
+    "description": "A simple, robust and flexible just-in-time job management framework in Python.",
+    "url": "https://github.com/evelynmitchell/custodian",
+    "parent_url": "https://github.com/materialsproject/custodian",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "maggma",
     "createdAt": "2023-11-30T02:45:08Z",
     "description": "MongoDB aggregation machine",
     "url": "https://github.com/evelynmitchell/maggma",
     "parent_url": "https://github.com/materialsproject/maggma",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "atomate",
+    "createdAt": "2023-11-30T02:44:31Z",
+    "description": "atomate is a powerful software for computational materials science and contains pre-built workflows.",
+    "url": "https://github.com/evelynmitchell/atomate",
+    "parent_url": "https://github.com/hackingmaterials/atomate",
     "labels": [],
     "repositoryTopics": null
   },
@@ -581,6 +725,15 @@
     "description": "A high-performance algorithmic trading platform and event-driven backtester",
     "url": "https://github.com/evelynmitchell/nautilus_trader",
     "parent_url": "https://github.com/nautechsystems/nautilus_trader",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "hadolint",
+    "createdAt": "2023-11-28T01:02:06Z",
+    "description": "Dockerfile linter, validate inline bash, written in Haskell",
+    "url": "https://github.com/evelynmitchell/hadolint",
+    "parent_url": "https://github.com/hadolint/hadolint",
     "labels": [],
     "repositoryTopics": null
   },
@@ -648,6 +801,24 @@
     "repositoryTopics": null
   },
   {
+    "name": "deepsparse",
+    "createdAt": "2023-11-24T22:51:29Z",
+    "description": "Sparsity-aware deep learning inference runtime for CPUs",
+    "url": "https://github.com/evelynmitchell/deepsparse",
+    "parent_url": "https://github.com/neuralmagic/deepsparse",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "implicit_chain_of_thought",
+    "createdAt": "2023-11-24T22:37:30Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/implicit_chain_of_thought",
+    "parent_url": "https://github.com/da03/implicit_chain_of_thought",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "spatially-embedded-RNN",
     "createdAt": "2023-11-24T17:18:08Z",
     "description": "Repository for example implementation of spatially-embedded RNNs. See https://www.jachterberg.com/seRNN for more information.",
@@ -693,11 +864,47 @@
     "repositoryTopics": null
   },
   {
+    "name": "mctx",
+    "createdAt": "2023-11-23T20:37:54Z",
+    "description": "Monte Carlo tree search in JAX",
+    "url": "https://github.com/evelynmitchell/mctx",
+    "parent_url": "https://github.com/google-deepmind/mctx",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "AlignProp",
+    "createdAt": "2023-11-23T02:25:33Z",
+    "description": "AlignProp uses direct reward backpropogation for the alignment of large-scale text-to-image diffusion models. Our method is 25x more sample and compute efficient than reinforcement learning methods (PPO) for finetuning Stable Diffusion",
+    "url": "https://github.com/evelynmitchell/AlignProp",
+    "parent_url": "https://github.com/mihirp1998/AlignProp",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "Prompt4ReasoningPapers",
     "createdAt": "2023-11-23T02:20:02Z",
     "description": "Repository for the ACL2023 paper \"Reasoning with Language Model Prompting: A Survey\".",
     "url": "https://github.com/evelynmitchell/Prompt4ReasoningPapers",
     "parent_url": "https://github.com/zjunlp/Prompt4ReasoningPapers",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "roadster",
+    "createdAt": "2023-11-23T00:39:54Z",
+    "description": "2008-2012 Roadster Development and Diagnostic Software files",
+    "url": "https://github.com/evelynmitchell/roadster",
+    "parent_url": "https://github.com/teslamotors/roadster",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "fastfeedforward",
+    "createdAt": "2023-11-22T23:40:29Z",
+    "description": "A repository for log-time feedforward networks",
+    "url": "https://github.com/evelynmitchell/fastfeedforward",
+    "parent_url": "https://github.com/pbelcak/fastfeedforward",
     "labels": [],
     "repositoryTopics": null
   },
@@ -738,6 +945,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "frigate",
+    "createdAt": "2023-11-20T02:02:47Z",
+    "description": "NVR with realtime local object detection for IP cameras",
+    "url": "https://github.com/evelynmitchell/frigate",
+    "parent_url": "https://github.com/blakeblackshear/frigate",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "unkey",
     "createdAt": "2023-11-20T01:58:32Z",
     "description": "Open source API authentication and authorization",
@@ -765,6 +981,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "pyperplan",
+    "createdAt": "2023-11-19T00:57:26Z",
+    "description": "A lightweight STRIPS planner written in Python.",
+    "url": "https://github.com/evelynmitchell/pyperplan",
+    "parent_url": "https://github.com/aibasel/pyperplan",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "segment-anything-fast",
     "createdAt": "2023-11-19T00:56:22Z",
     "description": "A batched offline inference oriented version of segment-anything",
@@ -783,11 +1008,38 @@
     "repositoryTopics": null
   },
   {
+    "name": "mustango",
+    "createdAt": "2023-11-18T17:57:38Z",
+    "description": "Mustango: Toward Controllable Text-to-Music Generation",
+    "url": "https://github.com/evelynmitchell/mustango",
+    "parent_url": "https://github.com/AMAAI-Lab/mustango",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "conv-emotion",
     "createdAt": "2023-11-18T04:42:45Z",
     "description": "This repo contains implementation of different architectures for emotion recognition in conversations.",
     "url": "https://github.com/evelynmitchell/conv-emotion",
     "parent_url": "https://github.com/declare-lab/conv-emotion",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Qwen-Audio",
+    "createdAt": "2023-11-18T03:52:09Z",
+    "description": "The official repo of Qwen-Audio (\u901a\u4e49\u5343\u95ee-Audio) chat & pretrained large audio language model proposed by Alibaba Cloud.",
+    "url": "https://github.com/evelynmitchell/Qwen-Audio",
+    "parent_url": "https://github.com/QwenLM/Qwen-Audio",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ghactions_testing",
+    "createdAt": "2023-11-17T21:41:26Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/ghactions_testing",
+    "parent_url": null,
     "labels": [],
     "repositoryTopics": null
   },
@@ -819,6 +1071,42 @@
     "repositoryTopics": null
   },
   {
+    "name": "design-baselines",
+    "createdAt": "2023-11-14T01:15:23Z",
+    "description": "Baselines for Model-Based Optimization",
+    "url": "https://github.com/evelynmitchell/design-baselines",
+    "parent_url": "https://github.com/brandontrabucco/design-baselines",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "MemGPT",
+    "createdAt": "2023-11-14T01:00:52Z",
+    "description": "Teaching LLMs memory management for unbounded context \ud83d\udcda\ud83e\udd99",
+    "url": "https://github.com/evelynmitchell/MemGPT",
+    "parent_url": "https://github.com/letta-ai/letta",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "cvxpylayers",
+    "createdAt": "2023-11-14T00:46:25Z",
+    "description": "Differentiable convex optimization layers",
+    "url": "https://github.com/evelynmitchell/cvxpylayers",
+    "parent_url": "https://github.com/cvxgrp/cvxpylayers",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "gitness",
+    "createdAt": "2023-11-14T00:45:47Z",
+    "description": "Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.",
+    "url": "https://github.com/evelynmitchell/gitness",
+    "parent_url": "https://github.com/harness/harness",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "mcts-for-llm",
     "createdAt": "2023-11-12T02:13:01Z",
     "description": "This is a pip package implementing Reinforcement Learning algorithms in non-stationary environments supported by the OpenAI Gym toolkit.",
@@ -833,6 +1121,24 @@
     "description": "AI-to-AI Testing | Simulation framework for LLM-based applications",
     "url": "https://github.com/evelynmitchell/spelltest",
     "parent_url": "https://github.com/artas728/spelltest",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "mindsdb",
+    "createdAt": "2023-11-11T23:07:17Z",
+    "description": "MindsDB connects AI models to real time data",
+    "url": "https://github.com/evelynmitchell/mindsdb",
+    "parent_url": "https://github.com/mindsdb/mindsdb",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "DiffusionAE",
+    "createdAt": "2023-11-09T21:13:50Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/DiffusionAE",
+    "parent_url": "https://github.com/fbrad/DiffusionAE",
     "labels": [],
     "repositoryTopics": null
   },
@@ -909,6 +1215,24 @@
     "repositoryTopics": null
   },
   {
+    "name": "RAIS-Framework",
+    "createdAt": "2023-11-02T21:13:57Z",
+    "description": "Evaluate social risks of AI startups for investors",
+    "url": "https://github.com/evelynmitchell/RAIS-Framework",
+    "parent_url": "https://github.com/radicalventures/RAIS-Framework",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "CompositionalKoopmanOperators",
+    "createdAt": "2023-11-02T01:24:05Z",
+    "description": "[ICLR 2020] Learning Compositional Koopman Operators for Model-Based Control",
+    "url": "https://github.com/evelynmitchell/CompositionalKoopmanOperators",
+    "parent_url": "https://github.com/YunzhuLi/CompositionalKoopmanOperators",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "vit-visualization",
     "createdAt": "2023-11-01T19:33:14Z",
     "description": "",
@@ -945,6 +1269,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "bigcode-evaluation-harness",
+    "createdAt": "2023-10-29T13:30:43Z",
+    "description": "A framework for the evaluation of autoregressive code generation language models.",
+    "url": "https://github.com/evelynmitchell/bigcode-evaluation-harness",
+    "parent_url": "https://github.com/bigcode-project/bigcode-evaluation-harness",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "Eureka",
     "createdAt": "2023-10-25T16:36:07Z",
     "description": "Official Repository for \"Eureka: Human-Level Reward Design via Coding Large Language Models\"",
@@ -972,10 +1305,28 @@
     "repositoryTopics": null
   },
   {
+    "name": "runtime-error-prediction",
+    "createdAt": "2023-10-24T01:32:37Z",
+    "description": "This is the repository for the paper Static Prediction of Runtime Errors by Learning to Execute Programs with External Resource Descriptions, and for the Python Runtime Errors (PRE) dataset.",
+    "url": "https://github.com/evelynmitchell/runtime-error-prediction",
+    "parent_url": "https://github.com/google-research/runtime-error-prediction",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "opt_sync",
     "createdAt": "2023-10-24T01:01:47Z",
     "description": "Options data sync",
     "url": "https://github.com/evelynmitchell/opt_sync",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Attention_Head_Varieties",
+    "createdAt": "2023-10-23T15:43:40Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/Attention_Head_Varieties",
     "parent_url": null,
     "labels": [],
     "repositoryTopics": null
@@ -986,6 +1337,24 @@
     "description": "Formalisms Every Computer Scientist Should Know",
     "url": "https://github.com/evelynmitchell/fecssk",
     "parent_url": "https://github.com/madvorak/fecssk",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "AgileRL",
+    "createdAt": "2023-10-20T17:24:36Z",
+    "description": "Streamlining reinforcement learning with RLOps",
+    "url": "https://github.com/evelynmitchell/AgileRL",
+    "parent_url": "https://github.com/AgileRL/AgileRL",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "PokemonRedExperiments",
+    "createdAt": "2023-10-20T16:53:38Z",
+    "description": "Playing Pokemon Red with Reinforcement Learning",
+    "url": "https://github.com/evelynmitchell/PokemonRedExperiments",
+    "parent_url": "https://github.com/PWhiddy/PokemonRedExperiments",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1044,6 +1413,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "tetragon",
+    "createdAt": "2023-10-19T19:13:35Z",
+    "description": "eBPF-based Security Observability and Runtime Enforcement",
+    "url": "https://github.com/evelynmitchell/tetragon",
+    "parent_url": "https://github.com/cilium/tetragon",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "qdrant",
     "createdAt": "2023-10-19T16:50:52Z",
     "description": "Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
@@ -1058,6 +1436,24 @@
     "description": "Official code and checkpoint release for \"ViNT: A Foundation Model for Visual Navigation\".",
     "url": "https://github.com/evelynmitchell/visualnav-transformer",
     "parent_url": "https://github.com/robodhruv/visualnav-transformer",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "issue-improver-action",
+    "createdAt": "2023-10-17T20:32:04Z",
+    "description": "GitHub Action that automates issue improvement suggestions using OpenAI GPT.",
+    "url": "https://github.com/evelynmitchell/issue-improver-action",
+    "parent_url": "https://github.com/MaurerKrisztian/issue-improver-action",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "math-lm",
+    "createdAt": "2023-10-17T02:15:40Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/math-lm",
+    "parent_url": "https://github.com/EleutherAI/math-lm",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1089,6 +1485,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "paperproof",
+    "createdAt": "2023-10-12T18:47:04Z",
+    "description": "Lean theorem proving interface which feels like pen-and-paper proofs. WIP.",
+    "url": "https://github.com/evelynmitchell/paperproof",
+    "parent_url": "https://github.com/Paper-Proof/paperproof",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "minithesis",
     "createdAt": "2023-10-12T17:04:42Z",
     "description": "A very minimal implementation of the core idea of Hypothesis",
@@ -1116,11 +1521,56 @@
     "repositoryTopics": null
   },
   {
+    "name": "FastChat",
+    "createdAt": "2023-10-11T19:46:55Z",
+    "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+    "url": "https://github.com/evelynmitchell/FastChat",
+    "parent_url": "https://github.com/lm-sys/FastChat",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "Paper-Reading",
+    "createdAt": "2023-10-11T19:45:28Z",
+    "description": "\ud83d\udcd6 Paper reading list in dialogue systems and natural language generation (constantly updating \ud83e\udd17).",
+    "url": "https://github.com/evelynmitchell/Paper-Reading",
+    "parent_url": "https://github.com/iwangjian/Paper-Reading-ConvAI",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "lm-evaluation-harness",
+    "createdAt": "2023-10-10T16:07:43Z",
+    "description": "A framework for few-shot evaluation of autoregressive language models.",
+    "url": "https://github.com/evelynmitchell/lm-evaluation-harness",
+    "parent_url": "https://github.com/EleutherAI/lm-evaluation-harness",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "agent-protocol",
+    "createdAt": "2023-10-10T03:29:26Z",
+    "description": "Common interface for interacting with AI agents. The protocol is tech stack agnostic - you can use it with any framework for building agents.",
+    "url": "https://github.com/evelynmitchell/agent-protocol",
+    "parent_url": "https://github.com/Div99/agent-protocol",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "git-branchless",
     "createdAt": "2023-10-10T02:50:14Z",
     "description": "High-velocity, monorepo-scale workflow for Git",
     "url": "https://github.com/evelynmitchell/git-branchless",
     "parent_url": "https://github.com/arxanas/git-branchless",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "torch2jax",
+    "createdAt": "2023-10-10T01:34:29Z",
+    "description": "Run PyTorch in JAX. \ud83e\udd1d",
+    "url": "https://github.com/evelynmitchell/torch2jax",
+    "parent_url": "https://github.com/samuela/torch2jax",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1143,11 +1593,29 @@
     "repositoryTopics": null
   },
   {
+    "name": "LanguageAgentTreeSearch",
+    "createdAt": "2023-10-09T19:10:23Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/LanguageAgentTreeSearch",
+    "parent_url": "https://github.com/lapisrocks/LanguageAgentTreeSearch",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "ck",
     "createdAt": "2023-10-09T17:31:13Z",
     "description": "An open-source, non-intrusive and technology-agnostic toolset to facilitate reproducible research and automate development, benchmarking, optimization, comparison and deployment of AI/ML Systems across diverse and rapidly evolving models, data sets, software and hardware from different vendors and users",
     "url": "https://github.com/evelynmitchell/ck",
     "parent_url": "https://github.com/mlcommons/ck",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "ck-mlops",
+    "createdAt": "2023-10-09T17:06:28Z",
+    "description": "A collection of portable workflows, automation recipes and components for MLOps in a unified CK format. Note that this repository is outdated - please check the 2nd generation of the CK workflow automation meta-framework with portable MLOps and DevOps components here:",
+    "url": "https://github.com/evelynmitchell/ck-mlops",
+    "parent_url": "https://github.com/mlcommons/ck-mlops",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1170,11 +1638,29 @@
     "repositoryTopics": null
   },
   {
+    "name": "autogen",
+    "createdAt": "2023-10-08T15:43:00Z",
+    "description": "Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ",
+    "url": "https://github.com/evelynmitchell/autogen",
+    "parent_url": "https://github.com/microsoft/autogen",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "bellybutton",
     "createdAt": "2023-10-06T20:17:31Z",
     "description": "Custom Python linting through AST expressions",
     "url": "https://github.com/evelynmitchell/bellybutton",
     "parent_url": "https://github.com/hchasestevens/bellybutton",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "p-promises",
+    "createdAt": "2023-10-06T19:33:41Z",
+    "description": "A P model of durable Promises",
+    "url": "https://github.com/evelynmitchell/p-promises",
+    "parent_url": "https://github.com/pcholakov/p-promises",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1202,6 +1688,15 @@
     "description": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
     "url": "https://github.com/evelynmitchell/libsql",
     "parent_url": "https://github.com/tursodatabase/libsql",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "vector-quantize-pytorch",
+    "createdAt": "2023-10-01T20:23:12Z",
+    "description": "Vector Quantization, in Pytorch",
+    "url": "https://github.com/evelynmitchell/vector-quantize-pytorch",
+    "parent_url": "https://github.com/lucidrains/vector-quantize-pytorch",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1278,6 +1773,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "concept-erasure",
+    "createdAt": "2023-09-21T20:42:55Z",
+    "description": "Erasing concepts from neural representations with provable guarantees",
+    "url": "https://github.com/evelynmitchell/concept-erasure",
+    "parent_url": "https://github.com/EleutherAI/concept-erasure",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "bulk",
     "createdAt": "2023-09-20T22:35:42Z",
     "description": "A Simple Bulk Labelling Tool",
@@ -1292,6 +1796,15 @@
     "description": "This repository includes code to reproduce the tables in \"Loss Landscapes are All You Need: Neural Network Generalization Can Be Explained Without the Implicit Bias of Gradient Descent\"",
     "url": "https://github.com/evelynmitchell/optimizer",
     "parent_url": "https://github.com/Ping-C/optimizer",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "circuit-repair",
+    "createdAt": "2023-09-20T02:40:49Z",
+    "description": "Iterative Circuit Repair Against Formal Specifications",
+    "url": "https://github.com/evelynmitchell/circuit-repair",
+    "parent_url": "https://github.com/reactive-systems/circuit-repair",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1346,6 +1859,15 @@
     "description": "Implementation of Nougat Neural Optical Understanding for Academic Documents",
     "url": "https://github.com/evelynmitchell/nougat",
     "parent_url": "https://github.com/facebookresearch/nougat",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "instagraph",
+    "createdAt": "2023-09-14T01:01:59Z",
+    "description": "Converts text input or URL into knowledge graph and displays",
+    "url": "https://github.com/evelynmitchell/instagraph",
+    "parent_url": "https://github.com/yoheinakajima/instagraph",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1422,6 +1944,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "GaussianProcessesDecision",
+    "createdAt": "2023-08-29T00:23:45Z",
+    "description": "Gaussian Processes and Statistical Decision-making in Non-Euclidean Spaces",
+    "url": "https://github.com/evelynmitchell/GaussianProcessesDecision",
+    "parent_url": "https://github.com/aterenin/phdthesis",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "graph-of-thoughts",
     "createdAt": "2023-08-28T01:55:31Z",
     "description": "Official Implementation of \"Graph of Thoughts: Solving Elaborate Problems with Large Language Models\"",
@@ -1454,6 +1985,15 @@
     "description": "Scalable PaaS (automated Docker+nginx) ",
     "url": "https://github.com/evelynmitchell/caprover",
     "parent_url": "https://github.com/caprover/caprover",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "windmill",
+    "createdAt": "2023-08-26T20:47:22Z",
+    "description": "Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.",
+    "url": "https://github.com/evelynmitchell/windmill",
+    "parent_url": "https://github.com/windmill-labs/windmill",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1557,6 +2097,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "autotrain-advanced",
+    "createdAt": "2023-08-12T02:43:50Z",
+    "description": "\ud83e\udd17 AutoTrain Advanced",
+    "url": "https://github.com/evelynmitchell/autotrain-advanced",
+    "parent_url": "https://github.com/huggingface/autotrain-advanced",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "gaussian-splatting-cuda",
     "createdAt": "2023-08-11T18:27:50Z",
     "description": "This project aims to reimplement the wonderful paper gaussian splatting with C++ and Cuda from scratch. This is a learning endeavor. Lets see how far we come.",
@@ -1580,6 +2129,15 @@
     "description": "Display dependency tree of Python distribution",
     "url": "https://github.com/evelynmitchell/johnnydep",
     "parent_url": "https://github.com/wimglenn/johnnydep",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "extendr",
+    "createdAt": "2023-08-10T20:15:49Z",
+    "description": "R extension library for rust designed to be familiar to R users.",
+    "url": "https://github.com/evelynmitchell/extendr",
+    "parent_url": "https://github.com/extendr/extendr",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1611,11 +2169,38 @@
     "repositoryTopics": null
   },
   {
+    "name": "madrona",
+    "createdAt": "2023-08-07T22:19:47Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/madrona",
+    "parent_url": "https://github.com/shacklettbp/madrona",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "direct-preference-optimization",
+    "createdAt": "2023-08-06T16:50:18Z",
+    "description": "Reference implementation for DPO (Direct Preference Optimization)",
+    "url": "https://github.com/evelynmitchell/direct-preference-optimization",
+    "parent_url": "https://github.com/eric-mitchell/direct-preference-optimization",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "rerun",
     "createdAt": "2023-08-05T23:35:15Z",
     "description": "Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui",
     "url": "https://github.com/evelynmitchell/rerun",
     "parent_url": "https://github.com/rerun-io/rerun",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "gosu",
+    "createdAt": "2023-08-05T16:31:14Z",
+    "description": "Simple Go-based setuid+setgid+setgroups+exec",
+    "url": "https://github.com/evelynmitchell/gosu",
+    "parent_url": "https://github.com/tianon/gosu",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1692,11 +2277,29 @@
     "repositoryTopics": null
   },
   {
+    "name": "muz",
+    "createdAt": "2023-07-29T19:10:23Z",
+    "description": "Attempting to replicate EfficientZero",
+    "url": "https://github.com/evelynmitchell/muz",
+    "parent_url": "https://github.com/HoagyC/muz",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "llm-attacks",
     "createdAt": "2023-07-29T19:03:24Z",
     "description": "Universal and Transferable Attacks on Aligned Language Models",
     "url": "https://github.com/evelynmitchell/llm-attacks",
     "parent_url": "https://github.com/llm-attacks/llm-attacks",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "httpx",
+    "createdAt": "2023-07-28T17:42:44Z",
+    "description": "A next generation HTTP client for Python. \ud83e\udd8b",
+    "url": "https://github.com/evelynmitchell/httpx",
+    "parent_url": "https://github.com/encode/httpx",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1715,6 +2318,15 @@
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "url": "https://github.com/evelynmitchell/mujoco",
     "parent_url": "https://github.com/google-deepmind/mujoco",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "pluto",
+    "createdAt": "2023-07-26T21:33:04Z",
+    "description": "A cli tool to help discover deprecated apiVersions in Kubernetes",
+    "url": "https://github.com/evelynmitchell/pluto",
+    "parent_url": "https://github.com/FairwindsOps/pluto",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1746,11 +2358,38 @@
     "repositoryTopics": null
   },
   {
+    "name": "cleanlab",
+    "createdAt": "2023-07-24T01:12:46Z",
+    "description": "The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.",
+    "url": "https://github.com/evelynmitchell/cleanlab",
+    "parent_url": "https://github.com/cleanlab/cleanlab",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "yagpdb",
     "createdAt": "2023-07-23T01:39:18Z",
     "description": "Yet another general purpose discord bot",
     "url": "https://github.com/evelynmitchell/yagpdb",
     "parent_url": "https://github.com/botlabs-gg/yagpdb",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "MetaTransformer",
+    "createdAt": "2023-07-22T22:34:38Z",
+    "description": "Meta-Transformer for Unified Multimodal Learning",
+    "url": "https://github.com/evelynmitchell/MetaTransformer",
+    "parent_url": "https://github.com/invictus717/MetaTransformer",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "python-mastery",
+    "createdAt": "2023-07-20T23:29:20Z",
+    "description": "Advanced Python Mastery (course by @dabeaz)",
+    "url": "https://github.com/evelynmitchell/python-mastery",
+    "parent_url": "https://github.com/dabeaz-course/python-mastery",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1773,6 +2412,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "qlora",
+    "createdAt": "2023-07-20T18:10:05Z",
+    "description": "QLoRA: Efficient Finetuning of Quantized LLMs",
+    "url": "https://github.com/evelynmitchell/qlora",
+    "parent_url": "https://github.com/artidoro/qlora",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "ODISE",
     "createdAt": "2023-07-20T18:02:15Z",
     "description": "Official PyTorch implementation of ODISE: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models [CVPR 2023 Highlight]",
@@ -1791,6 +2439,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "safari",
+    "createdAt": "2023-07-20T01:34:52Z",
+    "description": "Convolutions for Sequence Modeling",
+    "url": "https://github.com/evelynmitchell/safari",
+    "parent_url": "https://github.com/HazyResearch/safari",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "annotated-s4",
     "createdAt": "2023-07-20T01:32:24Z",
     "description": "Implementation of https://srush.github.io/annotated-s4",
@@ -1800,11 +2457,38 @@
     "repositoryTopics": null
   },
   {
+    "name": "S5",
+    "createdAt": "2023-07-20T01:29:39Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/S5",
+    "parent_url": "https://github.com/lindermanlab/S5",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "alloy_models",
+    "createdAt": "2023-07-19T22:51:45Z",
+    "description": "A public repository to host Alloy models.  This repository holds public models to be used as entertainment, examples, tutorials, utilities, and proofs. ",
+    "url": "https://github.com/evelynmitchell/alloy_models",
+    "parent_url": "https://github.com/AlloyTools/models",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "web-llm",
     "createdAt": "2023-07-18T02:16:59Z",
     "description": "Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.",
     "url": "https://github.com/evelynmitchell/web-llm",
     "parent_url": "https://github.com/mlc-ai/web-llm",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "awesome-controlnet",
+    "createdAt": "2023-07-18T00:35:39Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/awesome-controlnet",
+    "parent_url": "https://github.com/rakataprime/awesome-controlnet",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1863,6 +2547,24 @@
     "repositoryTopics": null
   },
   {
+    "name": "laser",
+    "createdAt": "2023-07-14T00:04:13Z",
+    "description": "The HPC toolbox: fused matrix multiplication, convolution, data-parallel strided tensor primitives, OpenMP facilities, SIMD, JIT Assembler, CPU detection, state-of-the-art vectorized BLAS for floats and integers",
+    "url": "https://github.com/evelynmitchell/laser",
+    "parent_url": "https://github.com/mratsim/laser",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "nim-learning",
+    "createdAt": "2023-07-10T18:41:21Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/nim-learning",
+    "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "OpenMetrics",
     "createdAt": "2023-07-06T23:58:11Z",
     "description": "Evolving the Prometheus exposition format into a standard.",
@@ -1917,11 +2619,29 @@
     "repositoryTopics": null
   },
   {
+    "name": "oathkeeper",
+    "createdAt": "2023-06-25T19:58:38Z",
+    "description": "A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.",
+    "url": "https://github.com/evelynmitchell/oathkeeper",
+    "parent_url": "https://github.com/ory/oathkeeper",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "hydra",
     "createdAt": "2023-06-25T19:58:15Z",
     "description": "OpenID Certified\u2122 OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",
     "url": "https://github.com/evelynmitchell/hydra",
     "parent_url": "https://github.com/ory/hydra",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "kratos",
+    "createdAt": "2023-06-25T19:57:56Z",
+    "description": "Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",
+    "url": "https://github.com/evelynmitchell/kratos",
+    "parent_url": "https://github.com/ory/kratos",
     "labels": [],
     "repositoryTopics": null
   },
@@ -1958,6 +2678,24 @@
     "description": "An Infinitely Large Napkin",
     "url": "https://github.com/evelynmitchell/napkin",
     "parent_url": "https://github.com/vEnhance/napkin",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "flash-attention",
+    "createdAt": "2023-06-18T01:33:52Z",
+    "description": "Fast and memory-efficient exact attention",
+    "url": "https://github.com/evelynmitchell/flash-attention",
+    "parent_url": "https://github.com/Dao-AILab/flash-attention",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "attention_with_linear_biases",
+    "createdAt": "2023-06-18T01:32:47Z",
+    "description": "Code for the ALiBi method for transformer language models (ICLR 2022)",
+    "url": "https://github.com/evelynmitchell/attention_with_linear_biases",
+    "parent_url": "https://github.com/ofirpress/attention_with_linear_biases",
     "labels": [],
     "repositoryTopics": null
   },
@@ -2061,6 +2799,24 @@
     "repositoryTopics": null
   },
   {
+    "name": "ReAct",
+    "createdAt": "2023-06-06T15:40:40Z",
+    "description": "[ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models",
+    "url": "https://github.com/evelynmitchell/ReAct",
+    "parent_url": "https://github.com/ysymyth/ReAct",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "privateGPT",
+    "createdAt": "2023-06-05T00:19:06Z",
+    "description": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks",
+    "url": "https://github.com/evelynmitchell/privateGPT",
+    "parent_url": "https://github.com/zylon-ai/private-gpt",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "task_vectors",
     "createdAt": "2023-06-03T02:54:48Z",
     "description": "Editing Models with Task Arithmetic",
@@ -2070,11 +2826,29 @@
     "repositoryTopics": null
   },
   {
+    "name": "tangent_task_arithmetic",
+    "createdAt": "2023-06-03T02:53:13Z",
+    "description": "Source code of \"Task arithmetic in the tangent space: Improved editing of pre-trained models\". ",
+    "url": "https://github.com/evelynmitchell/tangent_task_arithmetic",
+    "parent_url": "https://github.com/gortizji/tangent_task_arithmetic",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "localGPT",
     "createdAt": "2023-06-02T20:52:39Z",
     "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. ",
     "url": "https://github.com/evelynmitchell/localGPT",
     "parent_url": "https://github.com/PromtEngineer/localGPT",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "prm800k",
+    "createdAt": "2023-06-01T02:17:49Z",
+    "description": "800,000 step-level correctness labels on LLM solutions to MATH problems",
+    "url": "https://github.com/evelynmitchell/prm800k",
+    "parent_url": "https://github.com/openai/prm800k",
     "labels": [],
     "repositoryTopics": null
   },
@@ -2115,6 +2889,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "LLM-ToolMaker",
+    "createdAt": "2023-05-30T02:30:46Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/LLM-ToolMaker",
+    "parent_url": "https://github.com/ctlllll/LLM-ToolMaker",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "RedPajama-Data",
     "createdAt": "2023-05-30T01:57:05Z",
     "description": "The RedPajama-Data repository contains code for preparing large datasets for training large language models.",
@@ -2151,6 +2934,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "torchhd",
+    "createdAt": "2023-05-26T03:08:31Z",
+    "description": "Torchhd is a Python library for Hyperdimensional Computing and Vector Symbolic Architectures",
+    "url": "https://github.com/evelynmitchell/torchhd",
+    "parent_url": "https://github.com/hyperdimensional-computing/torchhd",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "gorilla",
     "createdAt": "2023-05-26T00:35:48Z",
     "description": "Gorilla: An API store for LLMs",
@@ -2165,6 +2957,15 @@
     "description": "Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
     "url": "https://github.com/evelynmitchell/tree-of-thought-llm",
     "parent_url": "https://github.com/princeton-nlp/tree-of-thought-llm",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "e2b",
+    "createdAt": "2023-05-25T22:02:37Z",
+    "description": "Vercel for AI agents. We're a platform for developers that helps them with building, deploying, and monitoring AI agents. ",
+    "url": "https://github.com/evelynmitchell/e2b",
+    "parent_url": "https://github.com/e2b-dev/E2B",
     "labels": [],
     "repositoryTopics": null
   },
@@ -2192,6 +2993,15 @@
     "description": "Contains open source code for the paper \"Perfectly-secure Steganography using Minimum Entropy Coupling\"",
     "url": "https://github.com/evelynmitchell/perfectly-secure-steganography",
     "parent_url": "https://github.com/schroederdewitt/perfectly-secure-steganography",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "DragGAN",
+    "createdAt": "2023-05-23T01:53:34Z",
+    "description": "Unofficial implementation of \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\"",
+    "url": "https://github.com/evelynmitchell/DragGAN",
+    "parent_url": "https://github.com/OpenGVLab/DragGAN",
     "labels": [],
     "repositoryTopics": null
   },
@@ -2295,6 +3105,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "automatic_prompt_engineer",
+    "createdAt": "2023-05-07T01:41:40Z",
+    "description": "",
+    "url": "https://github.com/evelynmitchell/automatic_prompt_engineer",
+    "parent_url": "https://github.com/keirp/automatic_prompt_engineer",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "alpaca-lora",
     "createdAt": "2023-05-05T17:37:48Z",
     "description": "Instruct-tune LLaMA on consumer hardware",
@@ -2394,6 +3213,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "StableLM",
+    "createdAt": "2023-04-20T01:39:24Z",
+    "description": "StableLM: Stability AI Language Models",
+    "url": "https://github.com/evelynmitchell/StableLM",
+    "parent_url": "https://github.com/Stability-AI/StableLM",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "dolly",
     "createdAt": "2023-04-15T02:24:38Z",
     "description": "Databricks\u2019 Dolly, a large language model trained on the Databricks Machine Learning Platform",
@@ -2439,6 +3267,24 @@
     "repositoryTopics": null
   },
   {
+    "name": "ggml",
+    "createdAt": "2023-03-31T15:54:23Z",
+    "description": "Tensor library for machine learning",
+    "url": "https://github.com/evelynmitchell/ggml",
+    "parent_url": "https://github.com/ggerganov/ggml",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "sourcegraph",
+    "createdAt": "2023-03-23T15:16:40Z",
+    "description": "Code Intelligence Platform",
+    "url": "https://github.com/evelynmitchell/sourcegraph",
+    "parent_url": "https://github.com/sourcegraph/sourcegraph-public-snapshot",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "secure-sw-dev-fundamentals",
     "createdAt": "2023-03-22T01:52:12Z",
     "description": "Secure Software Development Fundamentals courses (from the OpenSSF Best Practices WG)",
@@ -2475,11 +3321,29 @@
     "repositoryTopics": null
   },
   {
+    "name": "Chataigne",
+    "createdAt": "2023-03-09T02:54:08Z",
+    "description": "Artist-friendly Modular Machine for Art and Technology",
+    "url": "https://github.com/evelynmitchell/Chataigne",
+    "parent_url": "https://github.com/benkuper/Chataigne",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "ReqTemplatePromptEng",
     "createdAt": "2023-03-05T18:09:47Z",
     "description": "Requrements templates prompt engineering",
     "url": "https://github.com/evelynmitchell/ReqTemplatePromptEng",
     "parent_url": null,
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "fomu-toolchain",
+    "createdAt": "2023-03-04T20:08:10Z",
+    "description": "A collection of tools for developing for Fomu",
+    "url": "https://github.com/evelynmitchell/fomu-toolchain",
+    "parent_url": "https://github.com/im-tomu/fomu-toolchain",
     "labels": [],
     "repositoryTopics": null
   },
@@ -2619,6 +3483,15 @@
     "repositoryTopics": null
   },
   {
+    "name": "cbed",
+    "createdAt": "2023-01-29T23:56:23Z",
+    "description": "Official implementation of the paper \"Interventions, Where and How? Experimental Design for Causal Models at Scale\", NeurIPS 2022.",
+    "url": "https://github.com/evelynmitchell/cbed",
+    "parent_url": "https://github.com/yannadani/cbed",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "evals",
     "createdAt": "2023-01-27T03:22:22Z",
     "description": "",
@@ -2637,11 +3510,29 @@
     "repositoryTopics": null
   },
   {
+    "name": "flamegraph-experiment",
+    "createdAt": "2023-01-25T15:21:41Z",
+    "description": "Experiment for the paper \"On the Algebraic Properties of Flame Graphs\" https://arxiv.org/abs/2301.08941",
+    "url": "https://github.com/evelynmitchell/flamegraph-experiment",
+    "parent_url": "https://github.com/P403n1x87/flamegraph-experiment",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
     "name": "H3",
     "createdAt": "2023-01-24T03:06:06Z",
     "description": "Language Modeling with the H3 State Space Model",
     "url": "https://github.com/evelynmitchell/H3",
     "parent_url": "https://github.com/HazyResearch/H3",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "sentencepiece",
+    "createdAt": "2023-01-24T03:02:06Z",
+    "description": "Unsupervised text tokenizer for Neural Network-based text generation.",
+    "url": "https://github.com/evelynmitchell/sentencepiece",
+    "parent_url": "https://github.com/google/sentencepiece",
     "labels": [],
     "repositoryTopics": null
   },
@@ -2696,6 +3587,15 @@
     "description": "A plugin to edit and view Excalidraw drawings in Obsidian",
     "url": "https://github.com/evelynmitchell/obsidian-excalidraw-plugin",
     "parent_url": "https://github.com/zsviczian/obsidian-excalidraw-plugin",
+    "labels": [],
+    "repositoryTopics": null
+  },
+  {
+    "name": "nanoGPT",
+    "createdAt": "2023-01-12T02:43:54Z",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "url": "https://github.com/evelynmitchell/nanoGPT",
+    "parent_url": "https://github.com/karpathy/nanoGPT",
     "labels": [],
     "repositoryTopics": null
   }
