@@ -94,62 +94,59 @@
 | openllmetry | 2023-12-07 | Open-source observability for your LLM application, based on OpenTelemetry | https://github.com/traceloop/openllmetry | [  ] | https://github.com/evelynmitchell/openllmetry |
 | heinsen_sequence | 2023-12-07 | Code implementing "Efficient Parallelization of an Ubiquitious Sequential Computation" (Heinsen, 2023) | https://github.com/glassroom/heinsen_sequence | [  ] | https://github.com/evelynmitchell/heinsen_sequence |
 | whisbert | 2023-12-06 | babyLM WhisBERT code | https://github.com/lu-wo/whisbert | [ x ] | https://github.com/evelynmitchell/whisbert |
-| Carcinization | 2023-12-06 | Twenty minutes into the future |  | [  ] | https://github.com/evelynmitchell/Carcinization |
-| rlinRay | 2023-12-06 | Reinforcement learning in Ray in a container |  | [  ] | https://github.com/evelynmitchell/rlinRay |
-| UltraFastBERT | 2023-12-06 | The repository for the code of the UltraFastBERT paper | https://github.com/pbelcak/UltraFastBERT | [  ] | https://github.com/evelynmitchell/UltraFastBERT |
-| qmoe | 2023-12-06 | Code for the paper "QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models". | https://github.com/IST-DASLab/qmoe | [  ] | https://github.com/evelynmitchell/qmoe |
-| pytorch | 2023-12-05 | Tensors and Dynamic neural networks in Python with strong GPU acceleration | https://github.com/pytorch/pytorch | [  ] | https://github.com/evelynmitchell/pytorch |
+| UltraFastBERT | 2023-12-06 | The repository for the code of the UltraFastBERT paper | https://github.com/pbelcak/UltraFastBERT | [ x ] | https://github.com/evelynmitchell/UltraFastBERT |
+| qmoe | 2023-12-06 | Code for the paper "QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models". | https://github.com/IST-DASLab/qmoe | [ x ] | https://github.com/evelynmitchell/qmoe |
+| pytorch | 2023-12-05 | Tensors and Dynamic neural networks in Python with strong GPU acceleration | https://github.com/pytorch/pytorch | [x  ] | https://github.com/evelynmitchell/pytorch |
 | TaskWeaver | 2023-12-05 | A code-first agent framework for seamlessly planning and executing data analytics tasks.  | https://github.com/microsoft/TaskWeaver | [  ] | https://github.com/evelynmitchell/TaskWeaver |
-| llama-datasets | 2023-12-05 | Github repo for storing LlamaDatasets | https://github.com/run-llama/llama-datasets | [  ] | https://github.com/evelynmitchell/llama-datasets |
-| toppra | 2023-12-04 | robotic motion planning library | https://github.com/hungpham2511/toppra | [  ] | https://github.com/evelynmitchell/toppra |
-| mamba | 2023-12-04 |  | https://github.com/state-spaces/mamba | [  ] | https://github.com/evelynmitchell/mamba |
+| llama-datasets | 2023-12-05 | Github repo for storing LlamaDatasets | https://github.com/run-llama/llama-datasets | [ x ] | https://github.com/evelynmitchell/llama-datasets |
+| toppra | 2023-12-04 | robotic motion planning library | https://github.com/hungpham2511/toppra | [ x ] | https://github.com/evelynmitchell/toppra |
+| mamba | 2023-12-04 |  | https://github.com/state-spaces/mamba | [ x ] | https://github.com/evelynmitchell/mamba |
 | cuda-on-colab | 2023-12-04 | Showing how to use CUDA on google colab |  | [  ] | https://github.com/evelynmitchell/cuda-on-colab |
-| quip-sharp | 2023-12-04 |  | https://github.com/Cornell-RelaxML/quip-sharp | [  ] | https://github.com/evelynmitchell/quip-sharp |
-| hyde | 2023-12-04 | HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels | https://github.com/texttron/hyde | [  ] | https://github.com/evelynmitchell/hyde |
-| ghactioncontainer | 2023-12-03 |  |  | [  ] | https://github.com/evelynmitchell/ghactioncontainer |
-| seamless_communication | 2023-12-03 | Foundational Models for State-of-the-Art Speech and Text Translation | https://github.com/facebookresearch/seamless_communication | [  ] | https://github.com/evelynmitchell/seamless_communication |
-| UltraFeedback | 2023-12-03 | A large-scale, fine-grained, diverse preference dataset (and models). | https://github.com/OpenBMB/UltraFeedback | [  ] | https://github.com/evelynmitchell/UltraFeedback |
-| python-license-check | 2023-12-03 | Check python packages from requirement.txt and report issues | https://github.com/dhatim/python-license-check | [  ] | https://github.com/evelynmitchell/python-license-check |
-| hh-rlhf | 2023-12-03 | Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback" | https://github.com/anthropics/hh-rlhf | [  ] | https://github.com/evelynmitchell/hh-rlhf |
-| MotionDirector | 2023-12-03 | MotionDirector: Motion Customization of Text-to-Video Diffusion Models. | https://github.com/camenduru/MotionDirector | [  ] | https://github.com/evelynmitchell/MotionDirector |
-| multimodal-maestro | 2023-12-03 | Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA. 🔥 | https://github.com/roboflow/maestro | [  ] | https://github.com/evelynmitchell/multimodal-maestro |
+| quip-sharp | 2023-12-04 |  | https://github.com/Cornell-RelaxML/quip-sharp | [ x ] | https://github.com/evelynmitchell/quip-sharp |
+| hyde | 2023-12-04 | HyDE: Precise Zero-Shot Dense Retrieval without Relevance Labels | https://github.com/texttron/hyde | [ x ] | https://github.com/evelynmitchell/hyde |
+| seamless_communication | 2023-12-03 | Foundational Models for State-of-the-Art Speech and Text Translation | https://github.com/facebookresearch/seamless_communication | [ x ] | https://github.com/evelynmitchell/seamless_communication |
+| UltraFeedback | 2023-12-03 | A large-scale, fine-grained, diverse preference dataset (and models). | https://github.com/OpenBMB/UltraFeedback | [x  ] | https://github.com/evelynmitchell/UltraFeedback |
+| python-license-check | 2023-12-03 | Check python packages from requirement.txt and report issues | https://github.com/dhatim/python-license-check | [ x ] | https://github.com/evelynmitchell/python-license-check |
+| hh-rlhf | 2023-12-03 | Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback" | https://github.com/anthropics/hh-rlhf | [ x ] | https://github.com/evelynmitchell/hh-rlhf |
+| MotionDirector | 2023-12-03 | MotionDirector: Motion Customization of Text-to-Video Diffusion Models. | https://github.com/camenduru/MotionDirector | [x  ] | https://github.com/evelynmitchell/MotionDirector |
+| multimodal-maestro | 2023-12-03 | Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA. 🔥 | https://github.com/roboflow/maestro | [  x] | https://github.com/evelynmitchell/multimodal-maestro |
 | situational-awareness-evals | 2023-12-03 | Measuring the situational awareness of language models | https://github.com/AsaCooperStickland/situational-awareness-evals | [  ] | https://github.com/evelynmitchell/situational-awareness-evals |
-| unsloth | 2023-12-02 | 80% faster 50% less memory LLM finetuning | https://github.com/unslothai/unsloth | [  ] | https://github.com/evelynmitchell/unsloth |
-| UniIR | 2023-12-02 | Official code for paper "UniIR: Training and Benchmarking Universal Multimodal Information Retrievers" | https://github.com/TIGER-AI-Lab/UniIR | [  ] | https://github.com/evelynmitchell/UniIR |
+| unsloth | 2023-12-02 | 80% faster 50% less memory LLM finetuning | https://github.com/unslothai/unsloth | [ x ] | https://github.com/evelynmitchell/unsloth |
+| UniIR | 2023-12-02 | Official code for paper "UniIR: Training and Benchmarking Universal Multimodal Information Retrievers" | https://github.com/TIGER-AI-Lab/UniIR | [x  ] | https://github.com/evelynmitchell/UniIR |
 | obsidian-smart-connections | 2023-12-02 | Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings. | https://github.com/brianpetro/obsidian-smart-connections | [  ] | https://github.com/evelynmitchell/obsidian-smart-connections |
-| marker | 2023-12-01 | Convert PDF to markdown quickly with high accuracy | https://github.com/VikParuchuri/marker | [  ] | https://github.com/evelynmitchell/marker |
-| gpt-fast | 2023-11-30 | Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. | https://github.com/pytorch-labs/gpt-fast | [  ] | https://github.com/evelynmitchell/gpt-fast |
+| marker | 2023-12-01 | Convert PDF to markdown quickly with high accuracy | https://github.com/VikParuchuri/marker | [ x ] | https://github.com/evelynmitchell/marker |
+| gpt-fast | 2023-11-30 | Simple and efficient pytorch-native transformer text generation in <1000 LOC of python. | https://github.com/pytorch-labs/gpt-fast | [  x] | https://github.com/evelynmitchell/gpt-fast |
 | visual_anagrams | 2023-11-30 | Code for the paper "Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models" | https://github.com/dangeng/visual_anagrams | [  ] | https://github.com/evelynmitchell/visual_anagrams |
-| optax | 2023-11-30 | Optax is a gradient processing and optimization library for JAX. | https://github.com/google-deepmind/optax | [  ] | https://github.com/evelynmitchell/optax |
+| optax | 2023-11-30 | Optax is a gradient processing and optimization library for JAX. | https://github.com/google-deepmind/optax | [ x ] | https://github.com/evelynmitchell/optax |
 | custodian | 2023-11-30 | A simple, robust and flexible just-in-time job management framework in Python. | https://github.com/materialsproject/custodian | [  ] | https://github.com/evelynmitchell/custodian |
 | fireworks | 2023-11-30 | The Fireworks Workflow Management Repo. | https://github.com/materialsproject/fireworks | [  ] | https://github.com/evelynmitchell/fireworks |
-| maggma | 2023-11-30 | MongoDB aggregation machine | https://github.com/materialsproject/maggma | [  ] | https://github.com/evelynmitchell/maggma |
+| maggma | 2023-11-30 | MongoDB aggregation machine | https://github.com/materialsproject/maggma | [ x ] | https://github.com/evelynmitchell/maggma |
 | atomate | 2023-11-30 | atomate is a powerful software for computational materials science and contains pre-built workflows. | https://github.com/hackingmaterials/atomate | [  ] | https://github.com/evelynmitchell/atomate |
-| ml-ways | 2023-11-30 | ML/DL Math and Method notes | https://github.com/stas00/ml-ways | [  ] | https://github.com/evelynmitchell/ml-ways |
-| self-operating-computer | 2023-11-30 |  | https://github.com/OthersideAI/self-operating-computer | [  ] | https://github.com/evelynmitchell/self-operating-computer |
-| dagster | 2023-11-28 | An orchestration platform for the development, production, and observation of data assets. | https://github.com/dagster-io/dagster | [  ] | https://github.com/evelynmitchell/dagster |
+| ml-ways | 2023-11-30 | ML/DL Math and Method notes | https://github.com/stas00/ml-ways | [ x ] | https://github.com/evelynmitchell/ml-ways |
+| self-operating-computer | 2023-11-30 |  | https://github.com/OthersideAI/self-operating-computer | [x  ] | https://github.com/evelynmitchell/self-operating-computer |
+| dagster | 2023-11-28 | An orchestration platform for the development, production, and observation of data assets. | https://github.com/dagster-io/dagster | [ x ] | https://github.com/evelynmitchell/dagster |
 | CRATE | 2023-11-28 | Code for CRATE (Coding RAte reduction TransformEr). | https://github.com/Ma-Lab-Berkeley/CRATE | [  ] | https://github.com/evelynmitchell/CRATE |
 | nautilus_trader | 2023-11-28 | A high-performance algorithmic trading platform and event-driven backtester | https://github.com/nautechsystems/nautilus_trader | [  ] | https://github.com/evelynmitchell/nautilus_trader |
-| hadolint | 2023-11-28 | Dockerfile linter, validate inline bash, written in Haskell | https://github.com/hadolint/hadolint | [  ] | https://github.com/evelynmitchell/hadolint |
-| pineconeexamples | 2023-11-27 | Jupyter Notebooks to help you get hands-on with Pinecone vector databases | https://github.com/pinecone-io/examples | [  ] | https://github.com/evelynmitchell/pineconeexamples |
-| simplified_transformers | 2023-11-27 |  | https://github.com/bobby-he/simplified_transformers | [  ] | https://github.com/evelynmitchell/simplified_transformers |
-| meltano | 2023-11-27 | Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations. | https://github.com/meltano/meltano | [  ] | https://github.com/evelynmitchell/meltano |
-| Gentopia | 2023-11-27 | Build Hierarchical Autonomous Agents through Config. Collaborative Growth of Specialized Agents. | https://github.com/Gentopia-AI/Gentopia | [  ] | https://github.com/evelynmitchell/Gentopia |
+| hadolint | 2023-11-28 | Dockerfile linter, validate inline bash, written in Haskell | https://github.com/hadolint/hadolint | [ x ] | https://github.com/evelynmitchell/hadolint |
+| pineconeexamples | 2023-11-27 | Jupyter Notebooks to help you get hands-on with Pinecone vector databases | https://github.com/pinecone-io/examples | [ x ] | https://github.com/evelynmitchell/pineconeexamples |
+| simplified_transformers | 2023-11-27 |  | https://github.com/bobby-he/simplified_transformers | [ x ] | https://github.com/evelynmitchell/simplified_transformers |
+| meltano | 2023-11-27 | Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations. | https://github.com/meltano/meltano | [ x ] | https://github.com/evelynmitchell/meltano |
+| Gentopia | 2023-11-27 | Build Hierarchical Autonomous Agents through Config. Collaborative Growth of Specialized Agents. | https://github.com/Gentopia-AI/Gentopia | [ x ] | https://github.com/evelynmitchell/Gentopia |
 | pyglove | 2023-11-26 | Manipulating Python Programs | https://github.com/google/pyglove | [  ] | https://github.com/evelynmitchell/pyglove |
-| archai | 2023-11-26 | Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research. | https://github.com/microsoft/archai | [  ] | https://github.com/evelynmitchell/archai |
-| NASLib | 2023-11-26 |  NASLib is a Neural Architecture Search (NAS) library for facilitating NAS research for the community by providing interfaces to several state-of-the-art NAS search spaces and optimizers. | https://github.com/automl/NASLib | [  ] | https://github.com/evelynmitchell/NASLib |
+| archai | 2023-11-26 | Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research. | https://github.com/microsoft/archai | [x  ] | https://github.com/evelynmitchell/archai |
+| NASLib | 2023-11-26 |  NASLib is a Neural Architecture Search (NAS) library for facilitating NAS research for the community by providing interfaces to several state-of-the-art NAS search spaces and optimizers. | https://github.com/automl/NASLib | [ x ] | https://github.com/evelynmitchell/NASLib |
 | deep_architect | 2023-11-26 | A general, modular, and programmable architecture search framework | https://github.com/negrinho/deep_architect | [  ] | https://github.com/evelynmitchell/deep_architect |
-| gaussian-splatting | 2023-11-26 | Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" | https://github.com/graphdeco-inria/gaussian-splatting | [  ] | https://github.com/evelynmitchell/gaussian-splatting |
-| candle | 2023-11-26 | Minimalist ML framework for Rust | https://github.com/huggingface/candle | [  ] | https://github.com/evelynmitchell/candle |
-| assemblyphysics | 2023-11-26 |  | https://github.com/croningp/assemblyphysics | [  ] | https://github.com/evelynmitchell/assemblyphysics |
+| gaussian-splatting | 2023-11-26 | Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering" | https://github.com/graphdeco-inria/gaussian-splatting | [ x ] | https://github.com/evelynmitchell/gaussian-splatting |
+| candle | 2023-11-26 | Minimalist ML framework for Rust | https://github.com/huggingface/candle | [ x ] | https://github.com/evelynmitchell/candle |
+| assemblyphysics | 2023-11-26 | Assembly Theory Explains and Quantifies Selection and Evolution | https://github.com/croningp/assemblyphysics | [  ] | https://github.com/evelynmitchell/assemblyphysics |
 | ocp | 2023-11-26 | https://opencatalystproject.org/ | https://github.com/FAIR-Chem/fairchem | [  ] | https://github.com/evelynmitchell/ocp |
 | KabanAgent | 2023-11-25 | What if you let agents communicate through Kaban Boards? | https://github.com/edmundman/KabanAgent | [  ] | https://github.com/evelynmitchell/KabanAgent |
-| ComPEFT | 2023-11-25 |  | https://github.com/prateeky2806/ComPEFT | [  ] | https://github.com/evelynmitchell/ComPEFT |
-| ProAgent | 2023-11-25 | An LLM-based Agent for the New Automation Paradigm - Agentic Process Automation | https://github.com/OpenBMB/ProAgent | [  ] | https://github.com/evelynmitchell/ProAgent |
-| BIG-Bench-Mistake | 2023-11-25 | A dataset of LLM-generated chain-of-thought steps annotated with mistake location.  | https://github.com/WHGTyen/BIG-Bench-Mistake | [  ] | https://github.com/evelynmitchell/BIG-Bench-Mistake |
-| Automatic-Circuit-Discovery | 2023-11-25 |  | https://github.com/ArthurConmy/Automatic-Circuit-Discovery | [  ] | https://github.com/evelynmitchell/Automatic-Circuit-Discovery |
-| coding-interview-university | 2023-11-25 | A complete computer science study plan to become a software engineer. | https://github.com/jwasham/coding-interview-university | [  ] | https://github.com/evelynmitchell/coding-interview-university |
-| deepsparse | 2023-11-24 | Sparsity-aware deep learning inference runtime for CPUs | https://github.com/neuralmagic/deepsparse | [  ] | https://github.com/evelynmitchell/deepsparse |
+| ComPEFT | 2023-11-25 |  | https://github.com/prateeky2806/ComPEFT | [ x ] | https://github.com/evelynmitchell/ComPEFT |
+| ProAgent | 2023-11-25 | An LLM-based Agent for the New Automation Paradigm - Agentic Process Automation | https://github.com/OpenBMB/ProAgent | [x  ] | https://github.com/evelynmitchell/ProAgent |
+| BIG-Bench-Mistake | 2023-11-25 | A dataset of LLM-generated chain-of-thought steps annotated with mistake location.  | https://github.com/WHGTyen/BIG-Bench-Mistake | [ x ] | https://github.com/evelynmitchell/BIG-Bench-Mistake |
+| Automatic-Circuit-Discovery | 2023-11-25 |  | https://github.com/ArthurConmy/Automatic-Circuit-Discovery | [x  ] | https://github.com/evelynmitchell/Automatic-Circuit-Discovery |
+| coding-interview-university | 2023-11-25 | A complete computer science study plan to become a software engineer. | https://github.com/jwasham/coding-interview-university | [ x ] | https://github.com/evelynmitchell/coding-interview-university |
+| deepsparse | 2023-11-24 | Sparsity-aware deep learning inference runtime for CPUs | https://github.com/neuralmagic/deepsparse | [ x ] | https://github.com/evelynmitchell/deepsparse |
 | implicit_chain_of_thought | 2023-11-24 |  | https://github.com/da03/implicit_chain_of_thought | [  ] | https://github.com/evelynmitchell/implicit_chain_of_thought |
 | tess-diffusion | 2023-11-24 |  | https://github.com/allenai/tess-diffusion | [  ] | https://github.com/evelynmitchell/tess-diffusion |
 | spatially-embedded-RNN | 2023-11-24 | Repository for example implementation of spatially-embedded RNNs. See https://www.jachterberg.com/seRNN for more information. | https://github.com/8erberg/spatially-embedded-RNN | [  ] | https://github.com/evelynmitchell/spatially-embedded-RNN |
