@@ -72,28 +72,28 @@
 | cola | 2023-12-10 | Compositional Linear Algebra | https://github.com/wilson-labs/cola | [  ] | https://github.com/evelynmitchell/cola |
 | awesome-instruction-datasets | 2023-12-10 | A collection of awesome-prompt-datasets, awesome-instruction-dataset, to train ChatLLM such as chatgpt 收录各种各样的指令数据集, 用于训练  ChatLLM 模型。 | https://github.com/jianzhnie/awesome-instruction-datasets | [x  ] | https://github.com/evelynmitchell/awesome-instruction-datasets |
 | awesome-ai-sdks | 2023-12-10 | A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents | https://github.com/e2b-dev/awesome-ai-sdks | [ x ] | https://github.com/evelynmitchell/awesome-ai-sdks |
-| pytorch-memory-optim | 2023-12-10 | This code repository contains the code used for my "Optimizing Memory Usage for Training LLMs and Vision Transformers in PyTorch" blog post. | https://github.com/rasbt/pytorch-memory-optim | [  ] | https://github.com/evelynmitchell/pytorch-memory-optim |
-| axler | 2023-12-10 |  | https://github.com/arienmalec/axler | [  ] | https://github.com/evelynmitchell/axler |
+| pytorch-memory-optim | 2023-12-10 | This code repository contains the code used for my "Optimizing Memory Usage for Training LLMs and Vision Transformers in PyTorch" blog post. | https://github.com/rasbt/pytorch-memory-optim | [ x ] | https://github.com/evelynmitchell/pytorch-memory-optim |
+| axler | 2023-12-10 | This is a formalization of Axler, Linear Algebra Done Right, in Lean 4 with Mathlib, using the 4th edition of Axler, freely available at Axler's site | https://github.com/arienmalec/axler | [  ] | https://github.com/evelynmitchell/axler |
 | auto-j | 2023-12-10 | Generative Judge for Evaluating Alignment | https://github.com/GAIR-NLP/auto-j | [  ] | https://github.com/evelynmitchell/auto-j |
-| Mix-of-Show-colab | 2023-12-10 |  | https://github.com/camenduru/Mix-of-Show-colab | [  ] | https://github.com/evelynmitchell/Mix-of-Show-colab |
+| Mix-of-Show-colab | 2023-12-10 |  | https://github.com/camenduru/Mix-of-Show-colab | [ x ] | https://github.com/evelynmitchell/Mix-of-Show-colab |
 | meerkat | 2023-12-10 | Creative interactive views of any dataset.  | https://github.com/HazyResearch/meerkat | [  ] | https://github.com/evelynmitchell/meerkat |
-| src | 2023-12-10 |  | https://github.com/Unified-Language-Model-Alignment/src | [  ] | https://github.com/evelynmitchell/src |
-| OBC | 2023-12-10 | Code for the NeurIPS 2022 paper "Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning". | https://github.com/IST-DASLab/OBC | [  ] | https://github.com/evelynmitchell/OBC |
-| LVM | 2023-12-09 |  | https://github.com/ytongbai/LVM | [  ] | https://github.com/evelynmitchell/LVM |
+| src | 2023-12-10 |  | https://github.com/Unified-Language-Model-Alignment/src | [ x ] | https://github.com/evelynmitchell/src |
+| OBC | 2023-12-10 | Code for the NeurIPS 2022 paper "Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning". | https://github.com/IST-DASLab/OBC | [ x ] | https://github.com/evelynmitchell/OBC |
+| LVM | 2023-12-09 |  | https://github.com/ytongbai/LVM | [ x ] | https://github.com/evelynmitchell/LVM |
 | supervision | 2023-12-09 | We write your reusable computer vision tools. 💜 | https://github.com/roboflow/supervision | [  ] | https://github.com/evelynmitchell/supervision |
-| llama-mistral | 2023-12-09 | Inference code for Mistral and Mixtral hacked up into original Llama implementation | https://github.com/dzhulgakov/llama-mistral | [  ] | https://github.com/evelynmitchell/llama-mistral |
-| replicate-examples | 2023-12-09 |  | https://github.com/nateraw/replicate-examples | [  ] | https://github.com/evelynmitchell/replicate-examples |
-| WikiChat | 2023-12-09 | WikiChat improves the factuality of large language models by retrieving data from Wikipedia. | https://github.com/stanford-oval/WikiChat | [  ] | https://github.com/evelynmitchell/WikiChat |
-| stripedhyena | 2023-12-09 |  | https://github.com/togethercomputer/stripedhyena | [  ] | https://github.com/evelynmitchell/stripedhyena |
-| awesome-instruction-dataset | 2023-12-08 | A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca) | https://github.com/yaodongC/awesome-instruction-dataset | [  ] | https://github.com/evelynmitchell/awesome-instruction-dataset |
+| llama-mistral | 2023-12-09 | Inference code for Mistral and Mixtral hacked up into original Llama implementation | https://github.com/dzhulgakov/llama-mistral | [x  ] | https://github.com/evelynmitchell/llama-mistral |
+| replicate-examples | 2023-12-09 |  | https://github.com/nateraw/replicate-examples | [ x ] | https://github.com/evelynmitchell/replicate-examples |
+| WikiChat | 2023-12-09 | WikiChat improves the factuality of large language models by retrieving data from Wikipedia. | https://github.com/stanford-oval/WikiChat | [x ] | https://github.com/evelynmitchell/WikiChat |
+| stripedhyena | 2023-12-09 |  | https://github.com/togethercomputer/stripedhyena | [x  ] | https://github.com/evelynmitchell/stripedhyena |
+| awesome-instruction-dataset | 2023-12-08 | A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca) | https://github.com/yaodongC/awesome-instruction-dataset | [ x ] | https://github.com/evelynmitchell/awesome-instruction-dataset |
 | megablocks | 2023-12-08 |  | https://github.com/databricks/megablocks | [  ] | https://github.com/evelynmitchell/megablocks |
-| neural_chat | 2023-12-08 | Code to support training, evaluating and interacting neural network dialog models, and training them with reinforcement learning. Code to deploy a web server which hosts the models live online is available at: https://github.com/asmadotgh/neural_chat_web | https://github.com/natashamjaques/neural_chat | [  ] | https://github.com/evelynmitchell/neural_chat |
+| neural_chat | 2023-12-08 | Code to support training, evaluating and interacting neural network dialog models, and training them with reinforcement learning. Code to deploy a web server which hosts the models live online is available at: https://github.com/asmadotgh/neural_chat_web | https://github.com/natashamjaques/neural_chat | [ x ] | https://github.com/evelynmitchell/neural_chat |
 | concordia | 2023-12-07 | A library for generative social simulation | https://github.com/google-deepmind/concordia | [  ] | https://github.com/evelynmitchell/concordia |
 | pythia | 2023-12-07 | The hub for EleutherAI's work on interpretability and learning dynamics | https://github.com/EleutherAI/pythia | [  ] | https://github.com/evelynmitchell/pythia |
-| NexusRaven | 2023-12-07 | NexusRaven-13B, a new SOTA Open-Source LLM for function calling. This repo contains everything for reproducing our evaluation on NexusRaven-13B and baselines. | https://github.com/nexusflowai/NexusRaven | [  ] | https://github.com/evelynmitchell/NexusRaven |
+| NexusRaven | 2023-12-07 | NexusRaven-13B, a new SOTA Open-Source LLM for function calling. This repo contains everything for reproducing our evaluation on NexusRaven-13B and baselines. | https://github.com/nexusflowai/NexusRaven | [ x ] | https://github.com/evelynmitchell/NexusRaven |
 | openllmetry | 2023-12-07 | Open-source observability for your LLM application, based on OpenTelemetry | https://github.com/traceloop/openllmetry | [  ] | https://github.com/evelynmitchell/openllmetry |
 | heinsen_sequence | 2023-12-07 | Code implementing "Efficient Parallelization of an Ubiquitious Sequential Computation" (Heinsen, 2023) | https://github.com/glassroom/heinsen_sequence | [  ] | https://github.com/evelynmitchell/heinsen_sequence |
-| whisbert | 2023-12-06 | babyLM WhisBERT code | https://github.com/lu-wo/whisbert | [  ] | https://github.com/evelynmitchell/whisbert |
+| whisbert | 2023-12-06 | babyLM WhisBERT code | https://github.com/lu-wo/whisbert | [ x ] | https://github.com/evelynmitchell/whisbert |
 | Carcinization | 2023-12-06 | Twenty minutes into the future |  | [  ] | https://github.com/evelynmitchell/Carcinization |
 | rlinRay | 2023-12-06 | Reinforcement learning in Ray in a container |  | [  ] | https://github.com/evelynmitchell/rlinRay |
 | UltraFastBERT | 2023-12-06 | The repository for the code of the UltraFastBERT paper | https://github.com/pbelcak/UltraFastBERT | [  ] | https://github.com/evelynmitchell/UltraFastBERT |
