@@ -41,23 +41,23 @@
 | PowerInfer | 2023-12-19 | High-speed Large Language Model Serving on PCs with Consumer-grade GPUs | https://github.com/SJTU-IPADS/PowerInfer | [ x ] | https://github.com/evelynmitchell/PowerInfer |
 | xetcache | 2023-12-19 | XetCache provides persistent caching of long running functions or jupyter notebook cells. | https://github.com/xetdata/xetcache | [ x ] | https://github.com/evelynmitchell/xetcache |
 | Automatic_Meeting_Summarys | 2023-12-19 | Transcibe a meeting and summarise what was said.  | https://github.com/edmundman/Automatic_Meeting_Summarys | [ x ] | https://github.com/evelynmitchell/Automatic_Meeting_Summarys |
-| openlogprobs | 2023-12-19 | Extract full next-token probabilities via language model APIs | https://github.com/justinchiu/openlogprobs | [  ] | https://github.com/evelynmitchell/openlogprobs |
-| axolotl | 2023-12-19 | Go ahead and axolotl questions | https://github.com/axolotl-ai-cloud/axolotl | [  ] | https://github.com/evelynmitchell/axolotl |
-| ColBERT | 2023-12-19 | ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22) | https://github.com/stanford-futuredata/ColBERT | [  ] | https://github.com/evelynmitchell/ColBERT |
-| chroma_protein | 2023-12-18 | A generative model for programmable protein design | https://github.com/generatebio/chroma | [  ] | https://github.com/evelynmitchell/chroma_protein |
-| gpt-neox | 2023-12-18 | An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library. | https://github.com/EleutherAI/gpt-neox | [  ] | https://github.com/evelynmitchell/gpt-neox |
-| mergekit | 2023-12-18 | Tools for merging pretrained large language models. | https://github.com/arcee-ai/mergekit | [  ] | https://github.com/evelynmitchell/mergekit |
-| popjaxrl | 2023-12-18 | Benchmarking RL for POMDPs in Pure JAX [Code for "Structured State Space Models for In-Context Reinforcement Learning" (NeurIPS 2023)] | https://github.com/luchris429/popjaxrl | [  ] | https://github.com/evelynmitchell/popjaxrl |
-| promptbase | 2023-12-18 | All things prompt engineering | https://github.com/microsoft/promptbase | [  ] | https://github.com/evelynmitchell/promptbase |
+| openlogprobs | 2023-12-19 | Extract full next-token probabilities via language model APIs | https://github.com/justinchiu/openlogprobs | [ x ] | https://github.com/evelynmitchell/openlogprobs |
+| axolotl | 2023-12-19 | Go ahead and axolotl questions | https://github.com/axolotl-ai-cloud/axolotl | [ x ] | https://github.com/evelynmitchell/axolotl |
+| ColBERT | 2023-12-19 | ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22) | https://github.com/stanford-futuredata/ColBERT | [ x ] | https://github.com/evelynmitchell/ColBERT |
+| chroma_protein | 2023-12-18 | A generative model for programmable protein design | https://github.com/generatebio/chroma | [x  ] | https://github.com/evelynmitchell/chroma_protein |
+| gpt-neox | 2023-12-18 | An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library. | https://github.com/EleutherAI/gpt-neox | [x  ] | https://github.com/evelynmitchell/gpt-neox |
+| mergekit | 2023-12-18 | Tools for merging pretrained large language models. | https://github.com/arcee-ai/mergekit | [ x ] | https://github.com/evelynmitchell/mergekit |
+| popjaxrl | 2023-12-18 | Benchmarking RL for POMDPs in Pure JAX [Code for "Structured State Space Models for In-Context Reinforcement Learning" (NeurIPS 2023)] | https://github.com/luchris429/popjaxrl | [ x ] | https://github.com/evelynmitchell/popjaxrl |
+| promptbase | 2023-12-18 | All things prompt engineering | https://github.com/microsoft/promptbase | [ x ] | https://github.com/evelynmitchell/promptbase |
 | PurpleLlama | 2023-12-18 | Set of tools to assess and improve LLM security. | https://github.com/meta-llama/PurpleLlama | [  ] | https://github.com/evelynmitchell/PurpleLlama |
 | weak-to-strong | 2023-12-17 |  | https://github.com/openai/weak-to-strong | [  ] | https://github.com/evelynmitchell/weak-to-strong |
 | downward | 2023-12-17 | The Fast Downward domain-independent classical planning system | https://github.com/aibasel/downward | [  ] | https://github.com/evelynmitchell/downward |
 | chat-langchain | 2023-12-17 |  | https://github.com/langchain-ai/chat-langchain | [  ] | https://github.com/evelynmitchell/chat-langchain |
-| keras-lmu | 2023-12-17 | Keras implementation of Legendre Memory Units | https://github.com/nengo/keras-lmu | [  ] | https://github.com/evelynmitchell/keras-lmu |
+| keras-lmu | 2023-12-17 | Keras implementation of Legendre Memory Units | https://github.com/nengo/keras-lmu | [ x ] | https://github.com/evelynmitchell/keras-lmu |
 | long-range-arena | 2023-12-17 | Long Range Arena for Benchmarking Efficient Transformers | https://github.com/google-research/long-range-arena | [  ] | https://github.com/evelynmitchell/long-range-arena |
-| AffectGPT | 2023-12-17 | A Real-world Audio-Video-Text Aligned Dataset for Explainable Multimodal Emotion Reasoning | https://github.com/zeroQiaoba/AffectGPT | [  ] | https://github.com/evelynmitchell/AffectGPT |
+| AffectGPT | 2023-12-17 | A Real-world Audio-Video-Text Aligned Dataset for Explainable Multimodal Emotion Reasoning | https://github.com/zeroQiaoba/AffectGPT | [  x] | https://github.com/evelynmitchell/AffectGPT |
 | TopoNetX | 2023-12-17 | Computing on Topological Domains | https://github.com/pyt-team/TopoNetX | [  ] | https://github.com/evelynmitchell/TopoNetX |
-| umap | 2023-12-16 | Uniform Manifold Approximation and Projection | https://github.com/lmcinnes/umap | [  ] | https://github.com/evelynmitchell/umap |
+| umap | 2023-12-16 | Uniform Manifold Approximation and Projection | https://github.com/lmcinnes/umap | [ x ] | https://github.com/evelynmitchell/umap |
 | time-warp-attend | 2023-12-16 |  | https://github.com/nitzanlab/time-warp-attend | [  ] | https://github.com/evelynmitchell/time-warp-attend |
 | lptrace | 2023-12-16 | Trace any Python program, anywhere! | https://github.com/khamidou/lptrace | [  ] | https://github.com/evelynmitchell/lptrace |
 | octo | 2023-12-15 | Octo is a transformer-based robot policy trained on a diverse mix of 800k robot trajectories. | https://github.com/octo-models/octo | [  ] | https://github.com/evelynmitchell/octo |
@@ -67,11 +67,11 @@
 | S-LoRA | 2023-12-12 | S-LoRA: Serving Thousands of Concurrent LoRA Adapters | https://github.com/S-LoRA/S-LoRA | [  ] | https://github.com/evelynmitchell/S-LoRA |
 | griptape | 2023-12-12 | Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. Griptape is an enterprise grade alternative to LangChain.  | https://github.com/griptape-ai/griptape | [  ] | https://github.com/evelynmitchell/griptape |
 | LLMCompiler | 2023-12-11 | LLMCompiler: An LLM Compiler for Parallel Function Calling | https://github.com/SqueezeAILab/LLMCompiler | [  ] | https://github.com/evelynmitchell/LLMCompiler |
-| ConceptARC-Representations | 2023-12-11 | ConceptARC_Extract_Object_GPT4_API_Examples | https://github.com/kenshin9000/ConceptARC-Representations | [  ] | https://github.com/evelynmitchell/ConceptARC-Representations |
-| llama-cpp-python | 2023-12-11 | Python bindings for llama.cpp | https://github.com/abetlen/llama-cpp-python | [  ] | https://github.com/evelynmitchell/llama-cpp-python |
+| ConceptARC-Representations | 2023-12-11 | ConceptARC_Extract_Object_GPT4_API_Examples | https://github.com/kenshin9000/ConceptARC-Representations | [ x ] | https://github.com/evelynmitchell/ConceptARC-Representations |
+| llama-cpp-python | 2023-12-11 | Python bindings for llama.cpp | https://github.com/abetlen/llama-cpp-python | [ x ] | https://github.com/evelynmitchell/llama-cpp-python |
 | cola | 2023-12-10 | Compositional Linear Algebra | https://github.com/wilson-labs/cola | [  ] | https://github.com/evelynmitchell/cola |
-| awesome-instruction-datasets | 2023-12-10 | A collection of awesome-prompt-datasets, awesome-instruction-dataset, to train ChatLLM such as chatgpt 收录各种各样的指令数据集, 用于训练  ChatLLM 模型。 | https://github.com/jianzhnie/awesome-instruction-datasets | [  ] | https://github.com/evelynmitchell/awesome-instruction-datasets |
-| awesome-ai-sdks | 2023-12-10 | A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents | https://github.com/e2b-dev/awesome-ai-sdks | [  ] | https://github.com/evelynmitchell/awesome-ai-sdks |
+| awesome-instruction-datasets | 2023-12-10 | A collection of awesome-prompt-datasets, awesome-instruction-dataset, to train ChatLLM such as chatgpt 收录各种各样的指令数据集, 用于训练  ChatLLM 模型。 | https://github.com/jianzhnie/awesome-instruction-datasets | [x  ] | https://github.com/evelynmitchell/awesome-instruction-datasets |
+| awesome-ai-sdks | 2023-12-10 | A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents | https://github.com/e2b-dev/awesome-ai-sdks | [ x ] | https://github.com/evelynmitchell/awesome-ai-sdks |
 | pytorch-memory-optim | 2023-12-10 | This code repository contains the code used for my "Optimizing Memory Usage for Training LLMs and Vision Transformers in PyTorch" blog post. | https://github.com/rasbt/pytorch-memory-optim | [  ] | https://github.com/evelynmitchell/pytorch-memory-optim |
 | axler | 2023-12-10 |  | https://github.com/arienmalec/axler | [  ] | https://github.com/evelynmitchell/axler |
 | auto-j | 2023-12-10 | Generative Judge for Evaluating Alignment | https://github.com/GAIR-NLP/auto-j | [  ] | https://github.com/evelynmitchell/auto-j |
