@@ -2,11 +2,11 @@
 
 | Name | Created At | Description | Parent URL | Rem | URL |
 |------|------------|-------------|------------|-----|-----|
-| FasterNeuralDiffEq | 2023-12-31 | Code for "'Hey, that's not an ODE:' Faster ODE Adjoints via Seminorms" (ICML 2021) | https://github.com/patrick-kidger/FasterNeuralDiffEq | [  ] | https://github.com/evelynmitchell/FasterNeuralDiffEq |
-| torchdiffeq | 2023-12-31 | Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation. | https://github.com/rtqichen/torchdiffeq | [  ] | https://github.com/evelynmitchell/torchdiffeq |
-| lineax | 2023-12-31 | Linear solvers in JAX and Equinox. https://docs.kidger.site/lineax | https://github.com/patrick-kidger/lineax | [  ] | https://github.com/evelynmitchell/lineax |
-| cuda-api-wrappers | 2023-12-31 | Thin, unified, C++-flavored wrappers for the CUDA APIs | https://github.com/eyalroz/cuda-api-wrappers | [  ] | https://github.com/evelynmitchell/cuda-api-wrappers |
-| torchdyn | 2023-12-31 | A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods | https://github.com/DiffEqML/torchdyn | [  ] | https://github.com/evelynmitchell/torchdyn |
+| FasterNeuralDiffEq | 2023-12-31 | Code for "'Hey, that's not an ODE:' Faster ODE Adjoints via Seminorms" (ICML 2021) | https://github.com/patrick-kidger/FasterNeuralDiffEq | [x ] | https://github.com/evelynmitchell/FasterNeuralDiffEq |
+| torchdiffeq | 2023-12-31 | Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation. | https://github.com/rtqichen/torchdiffeq | [ x] | https://github.com/evelynmitchell/torchdiffeq |
+| lineax | 2023-12-31 | Linear solvers in JAX and Equinox. https://docs.kidger.site/lineax | https://github.com/patrick-kidger/lineax | [ x] | https://github.com/evelynmitchell/lineax |
+| cuda-api-wrappers | 2023-12-31 | Thin, unified, C++-flavored wrappers for the CUDA APIs | https://github.com/eyalroz/cuda-api-wrappers | [x] | https://github.com/evelynmitchell/cuda-api-wrappers |
+| torchdyn | 2023-12-31 | A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods | https://github.com/DiffEqML/torchdyn | [x ] | https://github.com/evelynmitchell/torchdyn |
 | pennylane-lightning | 2023-12-31 | The PennyLane-Lightning plugin provides a fast state-vector simulator written in C++ for use with PennyLane | https://github.com/PennyLaneAI/pennylane-lightning | [  ] | https://github.com/evelynmitchell/pennylane-lightning |
 | jaxtyping | 2023-12-31 | Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/ | https://github.com/patrick-kidger/jaxtyping | [  ] | https://github.com/evelynmitchell/jaxtyping |
 | nerfstudio | 2023-12-31 | A collaboration friendly studio for NeRFs | https://github.com/nerfstudio-project/nerfstudio | [  ] | https://github.com/evelynmitchell/nerfstudio |
